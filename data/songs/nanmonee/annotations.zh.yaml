@@ -1,0 +1,199 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: なんもねえ
+  reading: なんもねえ
+  pos: 惯用句
+  meaning: 什么都没有
+  note: 「何もない」的口语缩略。
+
+- word: 俺ら
+  reading: おれら
+  pos: 代词
+  meaning: 我们
+
+- word: 終わってる
+  reading: おわってる
+  pos: 动词
+  meaning: 已经完了；俚语里常指彻底没救了
+  note: 「終わる」的持续态。
+
+- word: 笑ったら
+  reading: わらったら
+  pos: 动词
+  meaning: 要是笑的话
+  note: 「笑う」的假定形。
+
+- word: 殺すぞ
+  reading: ころすぞ
+  pos: 动词
+  meaning: 杀了你哦
+  note: 「殺す」＋强调助词「ぞ」，语气粗暴。
+
+- word: オナってる
+  reading: おなってる
+  pos: 动词
+  meaning: 自慰（粗俗表达）
+  note: 「オナニーしている」的缩略。
+
+- word: 泣きながら
+  reading: なきながら
+  pos: 动词
+  meaning: 一边哭
+  note: 「泣く」的ます形去ます＋「ながら」。
+
+- word: ゼロワン
+  reading: ぜろわん
+  pos: 名词
+  meaning: 01；此处是口号式的呼喊
+
+- word: あつまれ
+  reading: あつまれ
+  pos: 动词
+  meaning: 聚集吧
+  note: 「集まる」的命令形。
+
+- word: ポンコツ
+  reading: ぽんこつ
+  pos: 名词
+  meaning: 破铜烂铁、废物；也形容人笨拙不中用
+
+- word: 森
+  reading: もり
+  pos: 名词
+  meaning: 森林
+
+- word: 力
+  reading: ちから
+  pos: 名词
+  meaning: 力量
+
+- word: あつめて
+  reading: あつめて
+  pos: 动词
+  meaning: 聚集起来
+  note: 「集める」的て形。
+
+- word: 迷惑かけるぜ
+  reading: めいわくかけるぜ
+  pos: 惯用句
+  meaning: 去给人添麻烦
+  note: 「迷惑をかける」的缩略＋「ぜ」。
+
+- word: あらかじめ
+  reading: あらかじめ
+  pos: 副词
+  meaning: 预先、事先
+
+- word: 言う
+  reading: いう
+  pos: 动词
+  meaning: 说
+
+- word: すめん
+  reading: すめん
+  pos: 感叹词
+  meaning: 抱歉
+  note: 「すみません」的随意缩略。
+
+- word: テヘペロ
+  reading: てへぺろ
+  pos: 名词
+  meaning: 吐舌装傻道歉的卖萌说法
+  note: 由「てへ」＋「ぺろ」组成。
+
+- word: 舐めた
+  reading: なめた
+  pos: 动词
+  meaning: 舔过的；也有「小看」之意
+  note: 「舐める」的过去式。
+
+- word: 指
+  reading: ゆび
+  pos: 名词
+  meaning: 手指
+
+- word: 臭え
+  reading: くせえ
+  pos: 形容词
+  meaning: 臭
+  note: 「臭い」的男性粗俗说法。
+
+- word: ありがとう
+  reading: ありがとう
+  pos: 感叹词
+  meaning: 谢谢
+
+- word: 孤独
+  reading: こどく
+  pos: 名词
+  meaning: 孤独
+
+- word: 脇役
+  reading: わきやく
+  pos: 名词
+  meaning: 配角
+
+- word: 胸んなか
+  reading: むねんなか
+  pos: 名词
+  meaning: 心里、心中
+  note: 「胸の中」的口语缩约。
+
+- word: あなた
+  reading: あなた
+  pos: 代词
+  meaning: 你
+
+- word: 夢みる
+  reading: ゆめみる
+  pos: 动词
+  meaning: 做梦
+
+- word: 今日
+  reading: きょう
+  pos: 名词
+  meaning: 今天
+
+- word: はんぱねえ
+  reading: はんぱねえ
+  pos: 形容词
+  meaning: 不得了、非同寻常
+  note: 「半端ない」的缩略。
+
+- word: 叶う
+  reading: かなう
+  pos: 动词
+  meaning: （愿望）实现
+
+- word: がんばれ
+  reading: がんばれ
+  pos: 动词
+  meaning: 加油
+  note: 「がんばる」的命令形。
+
+- word: 終わったら
+  reading: おわったら
+  pos: 动词
+  meaning: 结束之后
+  note: 「終わる」的假定形。
+
+- word: 灰になる
+  reading: はいになる
+  pos: 惯用句
+  meaning: 化为灰烬
+
+- word: 欲しい
+  reading: ほしい
+  pos: 形容词
+  meaning: 想要的
+
+- word: いらねえ
+  reading: いらねえ
+  pos: 动词
+  meaning: 不需要
+  note: 「要らない」的粗俗口语说法。
+
+- word: それしか
+  reading: それしか
+  pos: 惯用句
+  meaning: 只有那个
+  note: 「それ＋しか」，与否定呼应。

@@ -1,0 +1,237 @@
+# Match key: `word` must exactly match the surface form in lyrics.txt.
+- word: ゴキゲン
+  reading: ごきげん
+  pos: noun
+  meaning: good mood
+  note: Katakana spelling of ご機嫌.
+
+- word: 蝶
+  reading: ちょう
+  pos: noun
+  meaning: butterfly
+
+- word: きらめく
+  reading: きらめく
+  pos: verb
+  meaning: to sparkle; to glitter
+
+- word: 乗って
+  reading: のって
+  pos: verb
+  meaning: riding on
+  note: Te-form of 乗る.
+
+- word: 今すぐ
+  reading: いますぐ
+  pos: adverb
+  meaning: right now; at once
+
+- word: キミ
+  reading: きみ
+  pos: pronoun
+  meaning: you
+  note: Katakana spelling that gives a lighter, bouncier tone.
+
+- word: 会いに行こう
+  reading: あいにいこう
+  pos: phrase
+  meaning: let's go see you
+  note: Volitional form of 会いに行く.
+
+- word: 余計
+  reading: よけい
+  pos: na-adjective
+  meaning: unnecessary; superfluous
+
+- word: 忘れた
+  reading: わすれた
+  pos: verb
+  meaning: forgot
+  note: Past form of 忘れる.
+
+- word: 方
+  reading: ほう
+  pos: noun
+  meaning: side; the option of doing something
+  note: 忘れた方がマシ means "it's better to forget."
+
+- word: マシ
+  reading: まし
+  pos: na-adjective
+  meaning: better; preferable
+  note: Katakana spelling of まし.
+
+- word: シャレてる
+  reading: しゃれてる
+  pos: verb
+  meaning: to be stylish; to be cool
+  note: Progressive form of 洒落る.
+
+- word: 時間
+  reading: じかん
+  pos: noun
+  meaning: time
+
+- word: 届く
+  reading: とどく
+  pos: verb
+  meaning: to reach; to arrive
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow
+
+- word: 予定
+  reading: よてい
+  pos: noun
+  meaning: plans; schedule
+
+- word: 無限大
+  reading: むげんだい
+  pos: noun
+  meaning: infinity; infinite
+
+- word: 世の中
+  reading: よのなか
+  pos: noun
+  meaning: the world; society
+
+- word: 愛しい
+  reading: いとしい
+  pos: i-adjective
+  meaning: dear; beloved
+
+- word: 想い
+  reading: おもい
+  pos: noun
+  meaning: feelings; thoughts
+
+- word: 負けそう
+  reading: まけそう
+  pos: verb
+  meaning: about to lose
+  note: Stem of 負ける plus そう.
+
+- word: 頼りない
+  reading: たよりない
+  pos: i-adjective
+  meaning: unreliable
+
+- word: 翼
+  reading: つばさ
+  pos: noun
+  meaning: wings
+
+- word: 飛べる
+  reading: とべる
+  pos: verb
+  meaning: can fly
+  note: Potential form of 飛ぶ.
+
+- word: ウカレタ
+  reading: うかれた
+  pos: verb
+  meaning: elated; giddy
+  note: Past form of 浮かれる, used attributively.
+
+- word: 一途
+  reading: いちず
+  pos: na-adjective
+  meaning: earnest; single-minded
+
+- word: どこまでも
+  reading: どこまでも
+  pos: adverb
+  meaning: anywhere; to any extent
+
+- word: 曖昧
+  reading: あいまい
+  pos: na-adjective
+  meaning: vague; ambiguous
+
+- word: 言葉
+  reading: ことば
+  pos: noun
+  meaning: words; speech
+
+- word: 意外
+  reading: いがい
+  pos: na-adjective
+  meaning: unexpectedly
+
+- word: 便利
+  reading: べんり
+  pos: na-adjective
+  meaning: convenient; handy
+
+- word: 叫んでる
+  reading: さけんでる
+  pos: verb
+  meaning: shouting
+  note: Colloquial contraction of 叫んでいる.
+
+- word: ヒットソング
+  reading: ひっとそんぐ
+  pos: noun
+  meaning: hit song
+
+- word: 聴きながら
+  reading: ききながら
+  pos: verb
+  meaning: while listening
+  note: Stem of 聴く plus ながら.
+
+- word: 響く
+  reading: ひびく
+  pos: verb
+  meaning: to echo; to resound
+
+- word: 期待してても
+  reading: きたいしてても
+  pos: verb
+  meaning: even if I hope
+  note: Te-form of 期待する plus も.
+
+- word: 仕方ない
+  reading: しかたない
+  pos: idiom
+  meaning: it can't be helped
+
+- word: やるせない
+  reading: やるせない
+  pos: i-adjective
+  meaning: helpless; melancholy
+
+- word: 常識
+  reading: じょうしき
+  pos: noun
+  meaning: common sense
+
+- word: はずれ
+  reading: はずれ
+  pos: noun
+  meaning: deviation; being off
+  note: 常識はずれ means "outside common sense."
+
+- word: 悪くはない
+  reading: わるくはない
+  pos: i-adjective
+  meaning: not bad; not so bad
+  note: Negative form of 悪い.
+
+- word: 染めた
+  reading: そめた
+  pos: verb
+  meaning: dyed
+  note: Past form of 染める; here, tinged by a certain image.
+
+- word: ぎこちない
+  reading: ぎこちない
+  pos: i-adjective
+  meaning: awkward; clumsy
+
+- word: 空
+  reading: そら
+  pos: noun
+  meaning: sky

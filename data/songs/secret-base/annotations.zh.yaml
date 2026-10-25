@@ -1,0 +1,296 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 将来
+  reading: しょうらい
+  pos: 名词
+  meaning: 将来、未来
+
+- word: 夢
+  reading: ゆめ
+  pos: 名词
+  meaning: 梦；梦想
+
+- word: 大きな
+  reading: おおきな
+  pos: 形容词
+  meaning: 大大的
+  note: 「大きい」的连体形。
+
+- word: 希望
+  reading: きぼう
+  pos: 名词
+  meaning: 希望
+
+- word: 忘れない
+  reading: わすれない
+  pos: 动词
+  meaning: 不会忘记
+  note: 「忘れる」的否定形。
+
+- word: 出会える
+  reading: であえる
+  pos: 动词
+  meaning: 能再次相遇
+  note: 「出会う」的可能形。
+
+- word: 信じて
+  reading: しんじて
+  pos: 动词
+  meaning: 相信着
+  note: 「信じる」的て形。
+
+- word: 最高
+  reading: さいこう
+  pos: 名词
+  meaning: 最棒；最美好
+
+- word: 思い出
+  reading: おもいで
+  pos: 名词
+  meaning: 回忆
+
+- word: 出会い
+  reading: であい
+  pos: 名词
+  meaning: 相遇；邂逅
+
+- word: ふっとした
+  reading: ふっとした
+  pos: 连体词
+  meaning: 不经意的；突然的
+
+- word: 瞬間
+  reading: しゅんかん
+  pos: 名词
+  meaning: 瞬间
+
+- word: 帰り道
+  reading: かえりみち
+  pos: 名词
+  meaning: 回家的路
+
+- word: 交差点
+  reading: こうさてん
+  pos: 名词
+  meaning: 十字路口
+
+- word: 声をかけて
+  reading: こえをかけて
+  pos: 惯用句
+  meaning: 打招呼；搭话
+  note: 「声をかける」的て形。
+
+- word: 照れくさそうに
+  reading: てれくさそうに
+  pos: 副词
+  meaning: 害羞地
+
+- word: 隠しながら
+  reading: かくしながら
+  pos: 动词
+  meaning: 一边遮住
+  note: 「隠す」的ながら形。
+
+- word: 本当は
+  reading: ほんとうは
+  pos: 副词
+  meaning: 其实
+
+- word: 嬉しかった
+  reading: うれしかった
+  pos: 形容词
+  meaning: 很开心
+  note: 过去式。
+
+- word: 花火
+  reading: はなび
+  pos: 名词
+  meaning: 烟花
+
+- word: 夜空
+  reading: よぞら
+  pos: 名词
+  meaning: 夜空
+
+- word: 咲いて
+  reading: さいて
+  pos: 动词
+  meaning: 绽放
+  note: 「咲く」的て形。
+
+- word: セツナク
+  reading: せつなく
+  pos: 副词
+  meaning: 心酸地；怅然地
+  note: 「切ない」的连用形，歌词中以片假名书写。
+
+- word: 嬉しくって
+  reading: うれしくって
+  pos: 形容词
+  meaning: 开心得…
+  note: 「嬉しくて」的口语强调形。
+
+- word: 楽しくって
+  reading: たのしくって
+  pos: 形容词
+  meaning: 快乐得…
+  note: 「楽しくて」的口语强调形。
+
+- word: 冒険
+  reading: ぼうけん
+  pos: 名词
+  meaning: 冒险
+
+- word: 秘密
+  reading: ひみつ
+  pos: 名词
+  meaning: 秘密
+
+- word: 基地
+  reading: きち
+  pos: 名词
+  meaning: 基地
+
+- word: 最後まで
+  reading: さいごまで
+  pos: 惯用句
+  meaning: 直到最后
+
+- word: 心から
+  reading: こころから
+  pos: 副词
+  meaning: 从心底
+
+- word: 叫んでた
+  reading: さけんでた
+  pos: 动词
+  meaning: 喊了；喊出
+  note: 「叫んでいた」的口语缩略。
+
+- word: 知ってたよ
+  reading: しってたよ
+  pos: 动词
+  meaning: 我早就知道哦
+  note: 「知っていた」的口语缩略。
+
+- word: 涙
+  reading: なみだ
+  pos: 名词
+  meaning: 眼泪
+
+- word: こらえて
+  reading: こらえて
+  pos: 动词
+  meaning: 忍住
+  note: 「こらえる」的て形。
+
+- word: 笑顔
+  reading: えがお
+  pos: 名词
+  meaning: 笑容
+
+- word: さようなら
+  reading: さようなら
+  pos: 感叹词
+  meaning: 再见
+
+- word: せつない
+  reading: せつない
+  pos: 形容词
+  meaning: 心酸；难过
+
+- word: 夏休み
+  reading: なつやすみ
+  pos: 名词
+  meaning: 暑假
+
+- word: 少し
+  reading: すこし
+  pos: 副词
+  meaning: 一点；少许
+
+- word: 終わっちゃう
+  reading: おわっちゃう
+  pos: 动词
+  meaning: 就要结束了
+  note: 「終わってしまう」的口语缩略。
+
+- word: 太陽
+  reading: たいよう
+  pos: 名词
+  meaning: 太阳
+
+- word: 仲良くして
+  reading: なかよくして
+  pos: 动词
+  meaning: 和睦相处
+  note: 「仲良くする」的て形。
+
+- word: 悲しくって
+  reading: かなしくって
+  pos: 形容词
+  meaning: 悲伤得…
+  note: 「悲しくて」的口语强调形。
+
+- word: 寂しくって
+  reading: さびしくって
+  pos: 形容词
+  meaning: 寂寞得…
+  note: 「寂しくて」的口语强调形。
+
+- word: 喧嘩
+  reading: けんか
+  pos: 名词
+  meaning: 吵架；争执
+
+- word: 転校
+  reading: てんこう
+  pos: 名词
+  meaning: 转学
+
+- word: 手紙
+  reading: てがみ
+  pos: 名词
+  meaning: 信
+
+- word: 忘れないでね
+  reading: わすれないでね
+  pos: 动词
+  meaning: 请不要忘记哦
+
+- word: いつまでも
+  reading: いつまでも
+  pos: 副词
+  meaning: 永远；一直
+
+- word: 夕日
+  reading: ゆうひ
+  pos: 名词
+  meaning: 夕阳
+
+- word: 眺め
+  reading: ながめ
+  pos: 动词
+  meaning: 眺望
+  note: 「眺める」的连用形。
+
+- word: 頬
+  reading: ほほ
+  pos: 名词
+  meaning: 脸颊
+
+- word: 流れた
+  reading: ながれた
+  pos: 动词
+  meaning: 流下了
+  note: 「流れる」的过去式。
+
+- word: 手を振って
+  reading: てをふって
+  pos: 惯用句
+  meaning: 挥手
+  note: 「手を振る」的て形。
+
+- word: 永遠に
+  reading: えいえんに
+  pos: 副词
+  meaning: 永远地

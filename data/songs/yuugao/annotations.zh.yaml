@@ -1,0 +1,224 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 夕顔
+  reading: ゆうがお
+  pos: 名词
+  meaning: 葫芦花
+  note: 傍晚开放的花，故名「夕顔」。
+
+- word: 咲き始めた
+  reading: さきはじめた
+  pos: 动词
+  meaning: 开始绽放了
+  note: 「咲く」＋「始める」的过去式。
+
+- word: 水を打って
+  reading: みずをうって
+  pos: 惯用句
+  meaning: 洒水、浇水
+  note: 「水を打つ」的て形。
+
+- word: 遊びに出かけていた
+  reading: あそびにでかけていた
+  pos: 动词
+  meaning: 出去玩了
+  note: 「遊びに出かける」的过去进行体。
+
+- word: 帰ってきた
+  reading: かえってきた
+  pos: 动词
+  meaning: 回来了
+
+- word: さざなみ
+  reading: さざなみ
+  pos: 名词
+  meaning: 细浪、涟漪
+
+- word: 杏色
+  reading: あんずいろ
+  pos: 名词
+  meaning: 杏色、淡橙黄色
+
+- word: むらさき
+  reading: むらさき
+  pos: 名词
+  meaning: 紫色
+
+- word: 夕陽
+  reading: ゆうひ
+  pos: 名词
+  meaning: 夕阳
+
+- word: 染まって
+  reading: そまって
+  pos: 动词
+  meaning: 染上颜色
+  note: 「染まる」的て形。
+
+- word: 幻
+  reading: まぼろし
+  pos: 名词
+  meaning: 幻影、虚幻
+
+- word: 吹いて
+  reading: ふいて
+  pos: 动词
+  meaning: 吹
+  note: 「吹く」的て形。
+
+- word: 渡り
+  reading: わたり
+  pos: 动词
+  meaning: 渡过、跨越
+  note: 「渡る」的连用形。
+
+- word: 旅
+  reading: たび
+  pos: 名词
+  meaning: 旅程
+
+- word: 気がつけば
+  reading: きがつけば
+  pos: 惯用句
+  meaning: 回过神来、不知不觉
+
+- word: 時計
+  reading: とけい
+  pos: 名词
+  meaning: 钟表
+
+- word: 針
+  reading: はり
+  pos: 名词
+  meaning: 针；钟表指针
+
+- word: 戻る
+  reading: もどる
+  pos: 动词
+  meaning: 返回、回来
+
+- word: 時刻
+  reading: じこく
+  pos: 名词
+  meaning: 时刻、时间
+  note: 此处读作「じこく」。
+
+- word: お腹
+  reading: おなか
+  pos: 名词
+  meaning: 肚子
+  note: 此处读作「おなか」。
+
+- word: 虫
+  reading: むし
+  pos: 名词
+  meaning: 虫子
+  note: 「お腹の虫」指肚子里的馋虫。
+
+- word: 鳴いてる
+  reading: ないてる
+  pos: 动词
+  meaning: （肚子）咕咕叫
+  note: 「鳴く」的进行体「鳴いている」的口语缩略。
+
+- word: 作ろう
+  reading: つくろう
+  pos: 动词
+  meaning: 做吧
+  note: 「作る」的意志形。
+
+- word: そら耳
+  reading: そらみみ
+  pos: 名词
+  meaning: 幻听、听错
+  note: 「空耳」的假名写法。
+
+- word: 誰か
+  reading: だれか
+  pos: 代词
+  meaning: 某人
+
+- word: 声
+  reading: こえ
+  pos: 名词
+  meaning: 声音
+
+- word: 留守録
+  reading: るすろく
+  pos: 名词
+  meaning: 电话留言
+  note: 「留守番電話」的简称。
+
+- word: あわてて
+  reading: あわてて
+  pos: 动词
+  meaning: 慌张地
+  note: 「慌てる」的て形。
+
+- word: 夕飯
+  reading: ゆうはん
+  pos: 名词
+  meaning: 晚饭
+
+- word: 日々
+  reading: ひび
+  pos: 名词
+  meaning: 每天、日子
+
+- word: なつかしく
+  reading: なつかしく
+  pos: 形容词
+  meaning: 令人怀念
+  note: 「懐かしい」的连用形。
+
+- word: ぽっかり
+  reading: ぽっかり
+  pos: 副词
+  meaning: 空落落地、突然空出一块
+  note: 形容缺口或空洞的样子。
+
+- word: 空いた
+  reading: あいた
+  pos: 动词
+  meaning: 空出来的
+  note: 「空く」的过去式。
+
+- word: 時間
+  reading: じかん
+  pos: 名词
+  meaning: 时间
+
+- word: 一人
+  reading: ひとり
+  pos: 名词
+  meaning: 一个人
+
+- word: 持て余す
+  reading: もてあます
+  pos: 动词
+  meaning: 不知如何打发、难以应付
+
+- word: ベランダ
+  reading: べらんだ
+  pos: 名词
+  meaning: 阳台
+
+- word: 一番星
+  reading: いちばんぼし
+  pos: 名词
+  meaning: 傍晚最先出现的星星
+
+- word: 瞬き出した
+  reading: またたきだした
+  pos: 动词
+  meaning: 开始闪烁了
+  note: 「瞬き」在此读作「またたき」，「瞬く」＋「出す」的过去式。
+
+- word: 晴れる
+  reading: はれる
+  pos: 动词
+  meaning: 放晴
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天

@@ -1,0 +1,22 @@
+# Biome owns JavaScript / TypeScript / JSON formatting and linting.
+*.ts
+*.tsx
+*.js
+*.jsx
+*.mjs
+*.cjs
+*.json
+*.jsonc
+
+# Song content is hand-authored and validated by tests, not reformatted.
+data/
+
+# YAML (song files and workflows) has no Prettier parser.
+*.yaml
+*.yml
+
+# Generated or vendored files.
+dist/
+node_modules/
+coverage/
+pnpm-lock.yaml

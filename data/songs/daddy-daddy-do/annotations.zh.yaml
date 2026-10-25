@@ -1,0 +1,283 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 欲しい
+  reading: ほしい
+  pos: 形容词
+  meaning: 想要
+
+- word: 愛
+  reading: あい
+  pos: 名词
+  meaning: 爱
+
+- word: 抱かれ
+  reading: だかれ
+  pos: 动词
+  meaning: 被拥抱
+  note: 「抱く」的被动形。
+
+- word: ギラギラ
+  reading: ぎらぎら
+  pos: 副词
+  meaning: 闪闪发亮；炽烈地燃烧
+
+- word: 燃えて
+  reading: もえて
+  pos: 动词
+  meaning: 燃烧；这里指情感炽热
+  note: 「燃える」的て形。
+
+- word: 可愛げ
+  reading: かわいげ
+  pos: 名词
+  meaning: 可爱；讨人喜欢的样子
+
+- word: KISS
+  reading: きす
+  pos: 名词
+  meaning: 亲吻
+
+- word: 目線
+  reading: めせん
+  pos: 名词
+  meaning: 视线；目光
+
+- word: そらして
+  reading: そらして
+  pos: 动词
+  meaning: 移开；躲开
+  note: 「そらす」的て形。
+
+- word: ズルイ
+  reading: ずるい
+  pos: 形容词
+  meaning: 狡猾；耍赖
+
+- word: 火照り出す
+  reading: ほてりだす
+  pos: 动词
+  meaning: 开始发烫；脸红发热
+
+- word: 気持ち
+  reading: きもち
+  pos: 名词
+  meaning: 心情；感情
+
+- word: もてあそぶ
+  reading: もてあそぶ
+  pos: 动词
+  meaning: 玩弄；随意摆布
+
+- word: 追いかけちゃ
+  reading: おいかけちゃ
+  pos: 动词
+  meaning: 追上去
+  note: 「追いかけては」的口语缩略。
+
+- word: 踏み出せば
+  reading: ふみだせば
+  pos: 动词
+  meaning: 一旦迈出
+  note: 「踏み出す」的假定形。
+
+- word: 戻れなくて
+  reading: もどれなくて
+  pos: 动词
+  meaning: 回不去了
+  note: 「戻る」的可能形否定＋て形。
+
+- word: 脱ぎ捨てて
+  reading: ぬぎすてて
+  pos: 动词
+  meaning: 脱掉扔下
+  note: 「脱ぎ捨てる」的て形。
+
+- word: 本気
+  reading: マジ
+  pos: 名词
+  meaning: 认真；动真格
+  note: 「本気」通常读「ほんき」，此处唱作「マジ」。
+
+- word: 騙されたら
+  reading: だまされたら
+  pos: 动词
+  meaning: 如果被骗
+  note: 「騙す」的被动形假定形。
+
+- word: 震わせて
+  reading: ふるわせて
+  pos: 动词
+  meaning: 让……颤抖
+  note: 「震える」的使役形。
+
+- word: 魅せて
+  reading: みせて
+  pos: 动词
+  meaning: 展示；让我着迷
+  note: 「魅せる」的て形。
+
+- word: 笑顔
+  reading: えがお
+  pos: 名词
+  meaning: 笑容
+
+- word: 躊躇
+  reading: ちゅうちょ
+  pos: 名词
+  meaning: 犹豫；迟疑
+
+- word: 二度と
+  reading: にどと
+  pos: 副词
+  meaning: 再也不
+  note: 后接否定。
+
+- word: 逢えない
+  reading: あえない
+  pos: 动词
+  meaning: 见不到
+  note: 「逢う」的可能形否定。
+
+- word: 後悔
+  reading: こうかい
+  pos: 名词
+  meaning: 后悔
+
+- word: 暮れる
+  reading: くれる
+  pos: 动词
+  meaning: 沉溺；度过
+  note: 「後悔に暮れる」＝沉浸在后悔之中。
+
+- word: 恋
+  reading: こい
+  pos: 名词
+  meaning: 恋爱
+
+- word: 焼かれたい
+  reading: やかれたい
+  pos: 动词
+  meaning: 想被焚烧
+  note: 「焼く」的被动形＋愿望。
+
+- word: 流し目
+  reading: ながしめ
+  pos: 名词
+  meaning: 斜眼；送秋波的眼神
+
+- word: 愛しさ
+  reading: いとしさ
+  pos: 名词
+  meaning: 怜爱；可爱
+
+- word: 刺激する
+  reading: しげきする
+  pos: 动词
+  meaning: 刺激
+
+- word: 振り返る
+  reading: ふりかえる
+  pos: 动词
+  meaning: 回头；回顾
+
+- word: 美しさ
+  reading: うつくしさ
+  pos: 名词
+  meaning: 美丽；美感
+
+- word: 呼吸
+  reading: こきゅう
+  pos: 名词
+  meaning: 呼吸
+
+- word: 止まって
+  reading: とまって
+  pos: 动词
+  meaning: 停下
+  note: 「止まる」的て形。
+
+- word: 綺麗な
+  reading: きれいな
+  pos: 形容动词
+  meaning: 美丽的；干净的
+
+- word: 危険な
+  reading: きけんな
+  pos: 形容动词
+  meaning: 危险的
+
+- word: 願い
+  reading: ねがい
+  pos: 名词
+  meaning: 愿望
+
+- word: 止めないで
+  reading: とめないで
+  pos: 动词
+  meaning: 不要阻止
+  note: 「止める」的否定て形。
+
+- word: 連れていく
+  reading: つれていく
+  pos: 动词
+  meaning: 带走；带去
+
+- word: くちびる
+  reading: くちびる
+  pos: 名词
+  meaning: 嘴唇
+
+- word: 優しく
+  reading: やさしく
+  pos: 形容词
+  meaning: 温柔地
+  note: 「優しい」的连用形。
+
+- word: 微笑む
+  reading: ほほえむ
+  pos: 动词
+  meaning: 微笑
+
+- word: 飲み込まれて
+  reading: のみこまれて
+  pos: 动词
+  meaning: 被吞没；被吸进去
+  note: 「飲み込む」的被动形。
+
+- word: いざなわれて
+  reading: いざなわれて
+  pos: 动词
+  meaning: 被邀请；被引导
+  note: 「誘う」的被动形。
+
+- word: 未知
+  reading: みち
+  pos: 名词
+  meaning: 未知
+
+- word: ゆだねて
+  reading: ゆだねて
+  pos: 动词
+  meaning: 托付；交给
+  note: 「委ねる」的て形，比「任せる」更彻底。
+
+- word: 壊れる
+  reading: こわれる
+  pos: 动词
+  meaning: 坏掉；崩坏
+
+- word: 狂わせて
+  reading: くるわせて
+  pos: 动词
+  meaning: 让……发狂
+  note: 「狂う」的使役形。
+
+- word: 果てる
+  reading: はてる
+  pos: 动词
+  meaning: 终结；耗尽
+  note: 「いのち果てる」＝生命终结。
+
+- word: 夜明け
+  reading: よあけ
+  pos: 名词
+  meaning: 黎明；天亮

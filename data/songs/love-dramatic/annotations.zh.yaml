@@ -1,0 +1,278 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 夢
+  reading: ゆめ
+  pos: 名词
+  meaning: 梦
+
+- word: 聴かせて
+  reading: きかせて
+  pos: 动词
+  meaning: 让我听听
+  note: 「聴く」的使役形。
+
+- word: 焦らされる
+  reading: じらされる
+  pos: 动词
+  meaning: 被吊胃口；被故意拖延
+  note: 「焦らす」的被动形。
+
+- word: 切ない
+  reading: せつない
+  pos: 形容词
+  meaning: 心酸；难受；怅然
+
+- word: 想い
+  reading: おもい
+  pos: 名词
+  meaning: 思念；感情
+
+- word: 暴れだす
+  reading: あばれだす
+  pos: 动词
+  meaning: 开始暴走；按捺不住地涌出来
+
+- word: 視線
+  reading: しせん
+  pos: 名词
+  meaning: 视线
+
+- word: 負けそう
+  reading: まけそう
+  pos: 动词
+  meaning: 快要输掉；快要招架不住
+  note: 「負ける」＋样态助动词「そう」。
+
+- word: 危ない
+  reading: あぶない
+  pos: 形容词
+  meaning: 危险的
+
+- word: 踊らせて
+  reading: おどらせて
+  pos: 动词
+  meaning: 让我跳舞
+  note: 「踊る」的使役形。
+
+- word: ドラマティック
+  reading: どらまてぃっく
+  pos: 形容动词
+  meaning: 戏剧性的；富有戏剧感
+
+- word: いじわる
+  reading: いじわる
+  pos: 名词
+  meaning: 坏心眼；故意捉弄
+
+- word: 予感
+  reading: よかん
+  pos: 名词
+  meaning: 预感
+
+- word: しびれる
+  reading: しびれる
+  pos: 动词
+  meaning: 发麻；引申为被电到、陶醉
+
+- word: 触れた
+  reading: ふれた
+  pos: 动词
+  meaning: 触碰了
+  note: 「触れる」的过去式。
+
+- word: 指
+  reading: ゆび
+  pos: 名词
+  meaning: 手指
+
+- word: 先
+  reading: さき
+  pos: 名词
+  meaning: 前端；指尖
+
+- word: 運命
+  reading: うんめい
+  pos: 名词
+  meaning: 命运
+
+- word: 待ちわびている
+  reading: まちわびている
+  pos: 动词
+  meaning: 久等着；翘首以盼
+  note: 「待ちわびる」的进行体。
+
+- word: 言わせたい
+  reading: いわせたい
+  pos: 动词
+  meaning: 想让……说出口
+  note: 「言う」的使役形＋愿望。
+
+- word: 心
+  reading: こころ
+  pos: 名词
+  meaning: 心；内心
+
+- word: 壁
+  reading: かべ
+  pos: 名词
+  meaning: 墙壁；引申为心防
+
+- word: やぶる
+  reading: やぶる
+  pos: 动词
+  meaning: 打破；冲破
+
+- word: 愛
+  reading: あい
+  pos: 名词
+  meaning: 爱
+
+- word: 告白
+  reading: こくはく
+  pos: 名词
+  meaning: 告白；表白
+
+- word: 惑わせて
+  reading: まどわせて
+  pos: 动词
+  meaning: 迷惑我；让我心神不宁
+  note: 「惑わせる」的て形。
+
+- word: その気
+  reading: そのき
+  pos: 名词
+  meaning: 那个意思；那种兴趣
+  note: 「その気が無い」＝没有那个意思。
+
+- word: そぶり
+  reading: そぶり
+  pos: 名词
+  meaning: 举止；样子
+
+- word: お互い
+  reading: おたがい
+  pos: 名词
+  meaning: 彼此；互相
+
+- word: 駆け引き
+  reading: かけひき
+  pos: 名词
+  meaning: 讨价还价；恋爱中的试探与心理博弈
+
+- word: 演じてる
+  reading: えんじてる
+  pos: 动词
+  meaning: 扮演着；演着
+  note: 「演じる」的进行体。
+
+- word: 古い
+  reading: ふるい
+  pos: 形容词
+  meaning: 旧的；老式的
+
+- word: 映画
+  reading: えいが
+  pos: 名词
+  meaning: 电影
+
+- word: 優しい
+  reading: やさしい
+  pos: 形容词
+  meaning: 温柔的
+
+- word: 結末
+  reading: けつまつ
+  pos: 名词
+  meaning: 结局；结尾
+
+- word: 嘘
+  reading: うそ
+  pos: 名词
+  meaning: 谎言
+
+- word: 拒まない
+  reading: こばまない
+  pos: 动词
+  meaning: 不拒绝
+  note: 「拒む」的否定形。
+
+- word: 抱かれて
+  reading: だかれて
+  pos: 动词
+  meaning: 被拥抱
+  note: 「抱く」的被动形。
+
+- word: 壊れて
+  reading: こわれて
+  pos: 动词
+  meaning: 坏掉；崩坏
+  note: 这里指放纵情感。
+
+- word: 横顔
+  reading: よこがお
+  pos: 名词
+  meaning: 侧脸；侧颜
+
+- word: 魅せて
+  reading: みせて
+  pos: 动词
+  meaning: 展示；让我着迷
+  note: 「魅せる」的て形。
+
+- word: くちづけ
+  reading: くちづけ
+  pos: 名词
+  meaning: 接吻（书面表达）
+
+- word: 美しさ
+  reading: うつくしさ
+  pos: 名词
+  meaning: 美丽；美感
+
+- word: 隠された
+  reading: かくされた
+  pos: 动词
+  meaning: 被隐藏的
+  note: 「隠す」的被动形。
+
+- word: ピュア
+  reading: ぴゅあ
+  pos: 形容动词
+  meaning: 纯粹的；纯真的
+
+- word: 瞳
+  reading: ひとみ
+  pos: 名词
+  meaning: 瞳孔；眼睛
+
+- word: 飲み込まれる
+  reading: のみこまれる
+  pos: 动词
+  meaning: 被吞没；被吸进去
+
+- word: 秘密
+  reading: ひみつ
+  pos: 名词
+  meaning: 秘密
+
+- word: 明かして
+  reading: あかして
+  pos: 动词
+  meaning: 揭露；说出
+  note: 「明かす」的て形。
+
+- word: 愛しい
+  reading: いとしい
+  pos: 形容词
+  meaning: 可爱；令人爱怜
+
+- word: 止まらない
+  reading: とまらない
+  pos: 动词
+  meaning: 停不下来
+  note: 「止まる」的否定形。
+
+- word: 奪い去って
+  reading: うばいさって
+  pos: 动词
+  meaning: 夺走；抢走
+  note: 「奪い去る」的て形。

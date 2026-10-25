@@ -1,0 +1,286 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: やらかしてる
+  reading: やらかしてる
+  pos: 动词
+  meaning: 在不停搞砸、闯祸
+  note: 「やらかす」的持续态。
+
+- word: 問題児
+  reading: もんだいじ
+  pos: 名词
+  meaning: 问题儿童、麻烦制造者
+
+- word: エピソードトーク
+  reading: エピソードトーク
+  pos: 名词
+  meaning: 闲聊时讲的段子、轶事
+
+- word: 修羅場
+  reading: しゅらば
+  pos: 名词
+  meaning: 修罗场；激烈冲突或尴尬难堪的场面
+
+- word: 異次元
+  reading: いじげん
+  pos: 名词
+  meaning: 异次元；引申为完全不是一个级别
+
+- word: 想像
+  reading: そうぞう
+  pos: 名词
+  meaning: 想象
+
+- word: 超えて
+  reading: こえて
+  pos: 动词
+  meaning: 超越
+  note: 「超える」的て形。
+
+- word: 毎日
+  reading: まいにち
+  pos: 名词
+  meaning: 每天
+
+- word: 仕事
+  reading: しごと
+  pos: 名词
+  meaning: 工作
+
+- word: ムカつかなくはなくはない
+  reading: むかつかなくはなくはない
+  pos: 惯用句
+  meaning: 倒也不是不火大
+  note: 「なくはない」双重否定，口语里强调「确实有点火大」。
+
+- word: 神様
+  reading: かみさま
+  pos: 名词
+  meaning: 神明大人
+
+- word: 全部
+  reading: ぜんぶ
+  pos: 名词
+  meaning: 全部
+
+- word: エスケープ
+  reading: エスケープ
+  pos: 名词
+  meaning: 逃离、逃开（escape）
+
+- word: 打っても
+  reading: うっても
+  pos: 动词
+  meaning: 就算敲打
+  note: 「打つ」的て形＋「も」。
+
+- word: 響かない
+  reading: ひびかない
+  pos: 动词
+  meaning: 没有回响、不奏效
+
+- word: タフさ
+  reading: タフさ
+  pos: 名词
+  meaning: 抗造的程度、坚韧程度
+
+- word: 止められない
+  reading: とめられない
+  pos: 动词
+  meaning: 无法阻止
+  note: 「止める」的被动可能形。
+
+- word: 独り言
+  reading: ひとりごと
+  pos: 名词
+  meaning: 自言自语
+
+- word: 捕まえて
+  reading: つかまえて
+  pos: 动词
+  meaning: 抓住
+  note: 「捕まえる」的て形。
+
+- word: エキセントリック
+  reading: エキセントリック
+  pos: 形容动词
+  meaning: 古怪、特立独行（eccentric）
+
+- word: 貴方
+  reading: あなた
+  pos: 代词
+  meaning: 你
+
+- word: 退屈
+  reading: たいくつ
+  pos: 名词
+  meaning: 无聊、厌倦
+
+- word: ビビッと
+  reading: びびっと
+  pos: 副词
+  meaning: 像触电般一颤；心头一动
+  note: 拟态词，形容电流般的心动感。
+
+- word: お土産話
+  reading: おみやげばなし
+  pos: 名词
+  meaning: 旅行或外出带回来的见闻故事
+
+- word: 帰って
+  reading: かえって
+  pos: 动词
+  meaning: 回来
+  note: 「帰る」的て形。
+
+- word: 一大事
+  reading: いちだいじ
+  pos: 名词
+  meaning: 大事、严重的事
+  note: 此处带反讽语气。
+
+- word: ファーストコンタクト
+  reading: ファーストコンタクト
+  pos: 名词
+  meaning: 初次接触（first contact）
+
+- word: 絡みに行く
+  reading: からみにいく
+  pos: 惯用句
+  meaning: 主动去搭话、找茬
+
+- word: 宇宙人
+  reading: うちゅうじん
+  pos: 名词
+  meaning: 外星人
+
+- word: 通じてない
+  reading: つうじてない
+  pos: 动词
+  meaning: 说不通、无法沟通
+
+- word: 血圧
+  reading: けつあつ
+  pos: 名词
+  meaning: 血压
+
+- word: イラつかなくはなくはない
+  reading: いらつかなくはなくはない
+  pos: 惯用句
+  meaning: 倒也不是不烦躁
+  note: 与「ムカつく」同类的双重否定强调。
+
+- word: 共通言語
+  reading: きょうつうげんご
+  pos: 名词
+  meaning: 共同语言、共通语
+
+- word: 恐怖映像
+  reading: きょうふえいぞう
+  pos: 名词
+  meaning: 恐怖影像
+
+- word: 私たち
+  reading: わたしたち
+  pos: 代词
+  meaning: 我们
+
+- word: ドキュメント
+  reading: ドキュメント
+  pos: 名词
+  meaning: 纪录片（documentary）
+
+- word: 成り立ってる
+  reading: なりたってる
+  pos: 动词
+  meaning: 成立、维系着
+  note: 「成り立つ」的持续态。
+
+- word: ソウルメイト
+  reading: ソウルメイト
+  pos: 名词
+  meaning: 灵魂伴侣（soulmate）
+
+- word: 点と線
+  reading: てんとせん
+  pos: 名词
+  meaning: 点与线
+
+- word: 繋いだ
+  reading: つないだ
+  pos: 动词
+  meaning: 连接了
+  note: 「繋ぐ」的过去式。
+
+- word: 延長線上
+  reading: えんちょうせんじょう
+  pos: 名词
+  meaning: 延长线上；某事的自然延续
+
+- word: 深部感覚的
+  reading: しんぶかんかくてき
+  pos: 形容动词
+  meaning: 凭身体深部感觉的
+  note: 深部感觉即本体感觉，指肌肉关节的位置与运动感知。
+
+- word: 考えない
+  reading: かんがえない
+  pos: 动词
+  meaning: 不去想
+
+- word: 宇宙
+  reading: うちゅう
+  pos: 名词
+  meaning: 宇宙
+
+- word: 隅
+  reading: すみ
+  pos: 名词
+  meaning: 角落
+
+- word: ほっぽって
+  reading: ほっぽって
+  pos: 动词
+  meaning: 丢掉、弃之不管
+  note: 「放っぽる」的て形，口语说法。
+
+- word: 人目
+  reading: ひとめ
+  pos: 名词
+  meaning: 别人的目光
+
+- word: 惹き付ける
+  reading: ひきつける
+  pos: 动词
+  meaning: 吸引住
+
+- word: ヤバさ
+  reading: ヤバさ
+  pos: 名词
+  meaning: 离谱的程度、危险程度
+
+- word: インスパイアリング
+  reading: インスパイアリング
+  pos: 形容动词
+  meaning: 令人受启发的（inspiring）
+
+- word: 暗闇
+  reading: くらやみ
+  pos: 名词
+  meaning: 黑暗
+
+- word: 連れ出して
+  reading: つれだして
+  pos: 动词
+  meaning: 带出去、领出来
+  note: 「連れ出す」的て形。
+
+- word: 口説き文句
+  reading: くどきもんく
+  pos: 名词
+  meaning: 甜言蜜语、搭讪的话
+
+- word: 笑わせて
+  reading: わらわせて
+  pos: 动词
+  meaning: 逗笑
+  note: 「笑う」的使役形＋て。

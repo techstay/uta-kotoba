@@ -1,0 +1,263 @@
+# Match key: `word` must exactly match the surface form in lyrics.txt.
+- word: 見つけたい
+  reading: みつけたい
+  pos: verb
+  meaning: want to find
+  note: Desire form of 見つける.
+
+- word: 知らない
+  reading: しらない
+  pos: verb
+  meaning: not knowing; unknown
+  note: Negative form of 知る.
+
+- word: 探してる
+  reading: さがしてる
+  pos: verb
+  meaning: searching; looking for
+  note: Colloquial contraction of 探している.
+
+- word: 話したい
+  reading: はなしたい
+  pos: verb
+  meaning: want to talk; want to tell
+  note: Desire form of 話す.
+
+- word: 時間
+  reading: じかん
+  pos: noun
+  meaning: time
+
+- word: 過ぎてゆく
+  reading: すぎてゆく
+  pos: verb
+  meaning: to pass by; to slip away
+  note: Literary form of 過ぎていく.
+
+- word: 明日
+  reading: あす
+  pos: noun
+  meaning: tomorrow
+  note: Sung as あす in this song.
+
+- word: 場所
+  reading: ばしょ
+  pos: noun
+  meaning: place; spot
+
+- word: 会える
+  reading: あえる
+  pos: verb
+  meaning: can meet
+  note: Potential form of 会う.
+
+- word: サイズ
+  reading: さいず
+  pos: noun
+  meaning: size
+
+- word: 胸の内
+  reading: むねのうち
+  pos: idiom
+  meaning: one's heart; inner feelings
+
+- word: 見えない
+  reading: みえない
+  pos: verb
+  meaning: cannot be seen
+  note: Negative form of 見える.
+
+- word: 様に
+  reading: ように
+  pos: phrase
+  meaning: so that; in order that
+  note: 見えない様に means "so that it cannot be seen."
+
+- word: 覆い隠した
+  reading: おおいかくした
+  pos: verb
+  meaning: covered up; concealed
+
+- word: なんでも良いけれど
+  reading: なんでもいいけれど
+  pos: phrase
+  meaning: anything is fine, but...
+
+- word: 一枚
+  reading: いちまい
+  pos: noun
+  meaning: one sheet; one layer
+
+- word: 隔てたら
+  reading: へだてたら
+  pos: verb
+  meaning: if I put a layer between
+  note: Conditional form of 隔てる.
+
+- word: 本音
+  reading: ほんね
+  pos: noun
+  meaning: true feelings; honest words
+
+- word: きけるから
+  reading: きけるから
+  pos: verb
+  meaning: because I can hear
+  note: Colloquial form of the potential 聞ける.
+
+- word: フィクション
+  reading: ふぃくしょん
+  pos: noun
+  meaning: fiction
+
+- word: ノンフィクション
+  reading: のんふぃくしょん
+  pos: noun
+  meaning: non-fiction
+
+- word: 事実
+  reading: じじつ
+  pos: noun
+  meaning: fact
+
+- word: 嘘
+  reading: うそ
+  pos: noun
+  meaning: lie
+
+- word: ほんと
+  reading: ほんと
+  pos: noun
+  meaning: truth; really
+  note: Colloquial form of 本当.
+
+- word: 全部
+  reading: ぜんぶ
+  pos: noun
+  meaning: all; everything
+
+- word: 横たわる
+  reading: よこたわる
+  pos: verb
+  meaning: to lie; to stretch out
+
+- word: 世界
+  reading: せかい
+  pos: noun
+  meaning: world
+
+- word: 気づけば
+  reading: きづけば
+  pos: conjunction
+  meaning: when one notices; before one knows it
+
+- word: 暮れている
+  reading: くれている
+  pos: verb
+  meaning: it has grown dark
+  note: Te-form of 暮れる plus いる.
+
+- word: 頼らずに
+  reading: たよらずに
+  pos: verb
+  meaning: without relying on
+  note: Negative form of 頼る plus ずに.
+
+- word: お馴染み
+  reading: おなじみ
+  pos: na-adjective
+  meaning: familiar; well-known
+
+- word: 合図
+  reading: あいず
+  pos: noun
+  meaning: signal; sign
+
+- word: 仕草
+  reading: しぐさ
+  pos: noun
+  meaning: gesture; mannerism
+
+- word: 一つで
+  reading: ひとつで
+  pos: noun
+  meaning: with just one
+  note: Meaning "with just one gesture."
+
+- word: 分かる
+  reading: わかる
+  pos: verb
+  meaning: to understand
+
+- word: 2人
+  reading: ふたり
+  pos: noun
+  meaning: two people
+  note: Read as ふたり here.
+
+- word: 交差する
+  reading: こうさする
+  pos: verb
+  meaning: to intersect; to cross
+
+- word: 宙
+  reading: ちゅう
+  pos: noun
+  meaning: the air; empty space
+  note: 宙に浮く means "to float in midair."
+
+- word: テレパシー
+  reading: てれぱしー
+  pos: noun
+  meaning: telepathy
+
+- word: 読み違え
+  reading: よみちがえ
+  pos: noun
+  meaning: misreading; misunderstanding
+
+- word: 特別
+  reading: とくべつ
+  pos: na-adjective
+  meaning: special
+
+- word: 為に
+  reading: ために
+  pos: phrase
+  meaning: in order to
+
+- word: 何気ない
+  reading: なにげない
+  pos: i-adjective
+  meaning: casual; offhand
+
+- word: 日々
+  reading: ひび
+  pos: noun
+  meaning: days; everyday life
+
+- word: 側
+  reading: そば
+  pos: noun
+  meaning: side; beside
+
+- word: 思い返せば
+  reading: おもいかえせば
+  pos: verb
+  meaning: looking back
+  note: Conditional form of 思い返す.
+
+- word: 気が合う
+  reading: きがあう
+  pos: idiom
+  meaning: to get along; to hit it off
+
+- word: 思い通り
+  reading: おもいどおり
+  pos: noun
+  meaning: as one wishes; according to one's wishes
+
+- word: 楽しみ
+  reading: たのしみ
+  pos: noun
+  meaning: joy; something to look forward to

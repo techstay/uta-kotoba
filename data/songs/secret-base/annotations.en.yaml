@@ -1,0 +1,296 @@
+# Matching key: `word` must exactly match the surface form in lyrics.txt.
+- word: 将来
+  reading: しょうらい
+  pos: noun
+  meaning: future; one's prospects
+
+- word: 夢
+  reading: ゆめ
+  pos: noun
+  meaning: dream; aspiration
+
+- word: 大きな
+  reading: おおきな
+  pos: i-adjective
+  meaning: big; great
+  note: The attributive form of 「大きい」.
+
+- word: 希望
+  reading: きぼう
+  pos: noun
+  meaning: hope
+
+- word: 忘れない
+  reading: わすれない
+  pos: verb
+  meaning: won't forget
+  note: The negative form of 「忘れる」.
+
+- word: 出会える
+  reading: であえる
+  pos: verb
+  meaning: can meet again
+  note: The potential form of 「出会う」.
+
+- word: 信じて
+  reading: しんじて
+  pos: verb
+  meaning: believing
+  note: The te-form of 「信じる」.
+
+- word: 最高
+  reading: さいこう
+  pos: noun
+  meaning: the best; the greatest
+
+- word: 思い出
+  reading: おもいで
+  pos: noun
+  meaning: memory; memories
+
+- word: 出会い
+  reading: であい
+  pos: noun
+  meaning: encounter; meeting
+
+- word: ふっとした
+  reading: ふっとした
+  pos: adjective
+  meaning: fleeting; sudden
+
+- word: 瞬間
+  reading: しゅんかん
+  pos: noun
+  meaning: moment; instant
+
+- word: 帰り道
+  reading: かえりみち
+  pos: noun
+  meaning: the way home
+
+- word: 交差点
+  reading: こうさてん
+  pos: noun
+  meaning: crossroads; intersection
+
+- word: 声をかけて
+  reading: こえをかけて
+  pos: idiom
+  meaning: calling out to; speaking to
+  note: The te-form of 「声をかける」.
+
+- word: 照れくさそうに
+  reading: てれくさそうに
+  pos: adverb
+  meaning: bashfully; shyly
+
+- word: 隠しながら
+  reading: かくしながら
+  pos: verb
+  meaning: while hiding
+  note: The nagara-form of 「隠す」.
+
+- word: 本当は
+  reading: ほんとうは
+  pos: adverb
+  meaning: actually; in truth
+
+- word: 嬉しかった
+  reading: うれしかった
+  pos: i-adjective
+  meaning: was happy; was glad
+  note: Past tense.
+
+- word: 花火
+  reading: はなび
+  pos: noun
+  meaning: fireworks
+
+- word: 夜空
+  reading: よぞら
+  pos: noun
+  meaning: night sky
+
+- word: 咲いて
+  reading: さいて
+  pos: verb
+  meaning: blooming
+  note: The te-form of 「咲く」.
+
+- word: セツナク
+  reading: せつなく
+  pos: adverb
+  meaning: bittersweetly; with a pang
+  note: The continuative form of 「切ない」, written in katakana in the lyrics.
+
+- word: 嬉しくって
+  reading: うれしくって
+  pos: i-adjective
+  meaning: so happy that…
+  note: Emphatic colloquial form of 「嬉しくて」.
+
+- word: 楽しくって
+  reading: たのしくって
+  pos: i-adjective
+  meaning: so fun that…
+  note: Emphatic colloquial form of 「楽しくて」.
+
+- word: 冒険
+  reading: ぼうけん
+  pos: noun
+  meaning: adventure
+
+- word: 秘密
+  reading: ひみつ
+  pos: noun
+  meaning: secret
+
+- word: 基地
+  reading: きち
+  pos: noun
+  meaning: base
+
+- word: 最後まで
+  reading: さいごまで
+  pos: idiom
+  meaning: to the very end
+
+- word: 心から
+  reading: こころから
+  pos: adverb
+  meaning: from the bottom of one's heart
+
+- word: 叫んでた
+  reading: さけんでた
+  pos: verb
+  meaning: was shouting; shouted
+  note: Colloquial contraction of 「叫んでいた」.
+
+- word: 知ってたよ
+  reading: しってたよ
+  pos: verb
+  meaning: I knew it
+  note: Colloquial contraction of 「知っていた」.
+
+- word: 涙
+  reading: なみだ
+  pos: noun
+  meaning: tears
+
+- word: こらえて
+  reading: こらえて
+  pos: verb
+  meaning: to hold back
+  note: The te-form of 「こらえる」.
+
+- word: 笑顔
+  reading: えがお
+  pos: noun
+  meaning: smile; smiling face
+
+- word: さようなら
+  reading: さようなら
+  pos: interjection
+  meaning: goodbye
+
+- word: せつない
+  reading: せつない
+  pos: i-adjective
+  meaning: bittersweet; painful
+
+- word: 夏休み
+  reading: なつやすみ
+  pos: noun
+  meaning: summer vacation
+
+- word: 少し
+  reading: すこし
+  pos: adverb
+  meaning: a little; a bit
+
+- word: 終わっちゃう
+  reading: おわっちゃう
+  pos: verb
+  meaning: will end; will be over
+  note: Colloquial contraction of 「終わってしまう」.
+
+- word: 太陽
+  reading: たいよう
+  pos: noun
+  meaning: sun
+
+- word: 仲良くして
+  reading: なかよくして
+  pos: verb
+  meaning: to get along well
+  note: The te-form of 「仲良くする」.
+
+- word: 悲しくって
+  reading: かなしくって
+  pos: i-adjective
+  meaning: so sad that…
+  note: Emphatic colloquial form of 「悲しくて」.
+
+- word: 寂しくって
+  reading: さびしくって
+  pos: i-adjective
+  meaning: so lonely that…
+  note: Emphatic colloquial form of 「寂しくて」.
+
+- word: 喧嘩
+  reading: けんか
+  pos: noun
+  meaning: quarrel; fight
+
+- word: 転校
+  reading: てんこう
+  pos: noun
+  meaning: school transfer
+
+- word: 手紙
+  reading: てがみ
+  pos: noun
+  meaning: letter
+
+- word: 忘れないでね
+  reading: わすれないでね
+  pos: verb
+  meaning: please don't forget, okay
+
+- word: いつまでも
+  reading: いつまでも
+  pos: adverb
+  meaning: forever; always
+
+- word: 夕日
+  reading: ゆうひ
+  pos: noun
+  meaning: setting sun
+
+- word: 眺め
+  reading: ながめ
+  pos: verb
+  meaning: gazing; looking out at
+  note: The continuative form of 「眺める」.
+
+- word: 頬
+  reading: ほほ
+  pos: noun
+  meaning: cheek
+
+- word: 流れた
+  reading: ながれた
+  pos: verb
+  meaning: flowed; ran down
+  note: The past tense of 「流れる」.
+
+- word: 手を振って
+  reading: てをふって
+  pos: idiom
+  meaning: waving one's hand
+  note: The te-form of 「手を振る」.
+
+- word: 永遠に
+  reading: えいえんに
+  pos: adverb
+  meaning: forever; eternally

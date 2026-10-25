@@ -1,0 +1,286 @@
+# Matching key: `word` must match the surface form in lyrics.txt exactly.
+- word: やらかしてる
+  reading: やらかしてる
+  pos: verb
+  meaning: is messing up; keeps screwing up
+  note: Progressive form of やらかす.
+
+- word: 問題児
+  reading: もんだいじ
+  pos: noun
+  meaning: problem child; troublemaker
+
+- word: エピソードトーク
+  reading: エピソードトーク
+  pos: noun
+  meaning: anecdote talk; amusing stories from everyday life
+
+- word: 修羅場
+  reading: しゅらば
+  pos: noun
+  meaning: a scene of chaos; a fierce or painfully awkward situation
+
+- word: 異次元
+  reading: いじげん
+  pos: noun
+  meaning: another dimension; figuratively, a whole different level
+
+- word: 想像
+  reading: そうぞう
+  pos: noun
+  meaning: imagination
+
+- word: 超えて
+  reading: こえて
+  pos: verb
+  meaning: going beyond
+  note: Te-form of 超える.
+
+- word: 毎日
+  reading: まいにち
+  pos: noun
+  meaning: every day
+
+- word: 仕事
+  reading: しごと
+  pos: noun
+  meaning: work; job
+
+- word: ムカつかなくはなくはない
+  reading: むかつかなくはなくはない
+  pos: idiom
+  meaning: it's not that I'm not annoyed
+  note: A double negative built on なくはない, used casually to stress that I honestly am annoyed.
+
+- word: 神様
+  reading: かみさま
+  pos: noun
+  meaning: God; the gods
+
+- word: 全部
+  reading: ぜんぶ
+  pos: noun
+  meaning: everything; all
+
+- word: エスケープ
+  reading: エスケープ
+  pos: noun
+  meaning: escape
+
+- word: 打っても
+  reading: うっても
+  pos: verb
+  meaning: even if you hit it
+  note: Te-form of 打つ plus も.
+
+- word: 響かない
+  reading: ひびかない
+  pos: verb
+  meaning: doesn't echo; has no effect
+
+- word: タフさ
+  reading: タフさ
+  pos: noun
+  meaning: toughness; how unbreakable something is
+
+- word: 止められない
+  reading: とめられない
+  pos: verb
+  meaning: cannot be stopped
+  note: Potential-passive form of 止める.
+
+- word: 独り言
+  reading: ひとりごと
+  pos: noun
+  meaning: talking to oneself; monologue
+
+- word: 捕まえて
+  reading: つかまえて
+  pos: verb
+  meaning: catch; grab hold of
+  note: Te-form of 捕まえる.
+
+- word: エキセントリック
+  reading: エキセントリック
+  pos: na-adjective
+  meaning: eccentric; unconventional
+
+- word: 貴方
+  reading: あなた
+  pos: pronoun
+  meaning: you
+
+- word: 退屈
+  reading: たいくつ
+  pos: noun
+  meaning: boredom
+
+- word: ビビッと
+  reading: びびっと
+  pos: adverb
+  meaning: with a jolt; a tingling spark
+  note: A mimetic word for a sudden electric-like thrill.
+
+- word: お土産話
+  reading: おみやげばなし
+  pos: noun
+  meaning: a travel story; a tale brought back from somewhere
+
+- word: 帰って
+  reading: かえって
+  pos: verb
+  meaning: come back; return
+  note: Te-form of 帰る.
+
+- word: 一大事
+  reading: いちだいじ
+  pos: noun
+  meaning: a major incident; something serious
+  note: Used ironically here.
+
+- word: ファーストコンタクト
+  reading: ファーストコンタクト
+  pos: noun
+  meaning: first contact
+
+- word: 絡みに行く
+  reading: からみにいく
+  pos: idiom
+  meaning: to go pick a conversation or a fight
+
+- word: 宇宙人
+  reading: うちゅうじん
+  pos: noun
+  meaning: alien; extraterrestrial
+
+- word: 通じてない
+  reading: つうじてない
+  pos: verb
+  meaning: doesn't get through; not communicating
+
+- word: 血圧
+  reading: けつあつ
+  pos: noun
+  meaning: blood pressure
+
+- word: イラつかなくはなくはない
+  reading: いらつかなくはなくはない
+  pos: idiom
+  meaning: it's not that I'm not irritated
+  note: The same double-negative emphasis as ムカつく.
+
+- word: 共通言語
+  reading: きょうつうげんご
+  pos: noun
+  meaning: common language; shared language
+
+- word: 恐怖映像
+  reading: きょうふえいぞう
+  pos: noun
+  meaning: horror footage
+
+- word: 私たち
+  reading: わたしたち
+  pos: pronoun
+  meaning: we; us
+
+- word: ドキュメント
+  reading: ドキュメント
+  pos: noun
+  meaning: documentary
+
+- word: 成り立ってる
+  reading: なりたってる
+  pos: verb
+  meaning: is holding together; is established
+  note: Progressive form of 成り立つ.
+
+- word: ソウルメイト
+  reading: ソウルメイト
+  pos: noun
+  meaning: soulmate
+
+- word: 点と線
+  reading: てんとせん
+  pos: noun
+  meaning: dots and lines
+
+- word: 繋いだ
+  reading: つないだ
+  pos: verb
+  meaning: connected
+  note: Past tense of 繋ぐ.
+
+- word: 延長線上
+  reading: えんちょうせんじょう
+  pos: noun
+  meaning: an extension of; on the same line as
+
+- word: 深部感覚的
+  reading: しんぶかんかくてき
+  pos: na-adjective
+  meaning: based on deep sensation
+  note: Deep sensation means proprioception, the sense of muscle and joint position and movement.
+
+- word: 考えない
+  reading: かんがえない
+  pos: verb
+  meaning: not think about
+
+- word: 宇宙
+  reading: うちゅう
+  pos: noun
+  meaning: the universe; space
+
+- word: 隅
+  reading: すみ
+  pos: noun
+  meaning: corner
+
+- word: ほっぽって
+  reading: ほっぽって
+  pos: verb
+  meaning: toss aside; leave it be
+  note: Te-form of 放っぽる, a casual colloquial verb.
+
+- word: 人目
+  reading: ひとめ
+  pos: noun
+  meaning: other people's eyes; public attention
+
+- word: 惹き付ける
+  reading: ひきつける
+  pos: verb
+  meaning: to draw in; to attract
+
+- word: ヤバさ
+  reading: ヤバさ
+  pos: noun
+  meaning: how outrageous or intense something is
+
+- word: インスパイアリング
+  reading: インスパイアリング
+  pos: na-adjective
+  meaning: inspiring
+
+- word: 暗闇
+  reading: くらやみ
+  pos: noun
+  meaning: darkness
+
+- word: 連れ出して
+  reading: つれだして
+  pos: verb
+  meaning: lead out; take someone out
+  note: Te-form of 連れ出す.
+
+- word: 口説き文句
+  reading: くどきもんく
+  pos: noun
+  meaning: smooth talk; romantic lines; pickup lines
+
+- word: 笑わせて
+  reading: わらわせて
+  pos: verb
+  meaning: make someone laugh
+  note: Causative form of 笑う plus て.

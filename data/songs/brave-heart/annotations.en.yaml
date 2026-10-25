@@ -1,0 +1,296 @@
+# Match key: `word` must exactly match the surface form in lyrics.txt.
+- word: 逃げたり
+  reading: にげたり
+  pos: verb
+  meaning: to run away, and such
+  note: Past form of 逃げる plus り, used to list examples.
+
+- word: あきらめる
+  reading: あきらめる
+  pos: verb
+  meaning: to give up
+  note: Usually written 諦める.
+
+- word: コト
+  reading: こと
+  pos: noun
+  meaning: thing; matter
+  note: Written in katakana to emphasize "something only you can do."
+
+- word: 一瞬
+  reading: いっしゅん
+  pos: noun
+  meaning: a moment; an instant
+
+- word: 歩き続けよう
+  reading: あるきつづけよう
+  pos: verb
+  meaning: let's keep walking
+  note: Volitional form of 歩く plus 続ける.
+
+- word: 青い
+  reading: あおい
+  pos: i-adjective
+  meaning: blue
+
+- word: 星
+  reading: ほし
+  pos: noun
+  meaning: star
+
+- word: 失くせぬ
+  reading: なくせぬ
+  pos: verb
+  meaning: will not lose
+  note: Literary form of the negative 失くせない.
+
+- word: つかめ
+  reading: つかめ
+  pos: verb
+  meaning: grab!
+  note: Imperative form of 掴む.
+
+- word: 描いた
+  reading: えがいた
+  pos: verb
+  meaning: painted; pictured
+  note: Past form of 描く.
+
+- word: 夢
+  reading: ゆめ
+  pos: noun
+  meaning: dream
+
+- word: まもれ
+  reading: まもれ
+  pos: verb
+  meaning: protect!
+  note: Imperative form of 守る.
+
+- word: 大事
+  reading: だいじ
+  pos: na-adjective
+  meaning: important; precious
+
+- word: 友
+  reading: とも
+  pos: noun
+  meaning: friend
+
+- word: たくましい
+  reading: たくましい
+  pos: i-adjective
+  meaning: strong; sturdy
+  note: Usually written 逞しい.
+
+- word: 自分
+  reading: じぶん
+  pos: pronoun
+  meaning: oneself
+
+- word: パワー
+  reading: ぱわー
+  pos: noun
+  meaning: power
+
+- word: 宿る
+  reading: やどる
+  pos: verb
+  meaning: to dwell; to reside
+
+- word: ハート
+  reading: はーと
+  pos: noun
+  meaning: heart
+
+- word: 火がついたら
+  reading: ひがついたら
+  pos: idiom
+  meaning: once it catches fire
+  note: Past form of 火がつく plus ら; figuratively, once something is ignited.
+
+- word: 願い
+  reading: ねがい
+  pos: noun
+  meaning: wish
+
+- word: 嘘
+  reading: うそ
+  pos: noun
+  meaning: lie
+
+- word: 叶う
+  reading: かなう
+  pos: verb
+  meaning: (of a wish) to come true
+
+- word: 晴れ
+  reading: はれ
+  pos: noun
+  meaning: sunny weather; clear skies
+
+- word: 冷たい
+  reading: つめたい
+  pos: i-adjective
+  meaning: cold
+
+- word: 雨
+  reading: あめ
+  pos: noun
+  meaning: rain
+
+- word: 降る
+  reading: ふる
+  pos: verb
+  meaning: to fall (of rain or snow)
+
+- word: 傘ひろげよう
+  reading: かさひろげよう
+  pos: phrase
+  meaning: let's open our umbrellas
+  note: Volitional form of 傘を広げる, with を omitted.
+
+- word: 生き方
+  reading: いきかた
+  pos: noun
+  meaning: way of life
+
+- word: 地図
+  reading: ちず
+  pos: noun
+  meaning: map
+
+- word: 自由
+  reading: じゆう
+  pos: noun
+  meaning: freedom
+
+- word: どこへだって
+  reading: どこへだって
+  pos: adverb
+  meaning: anywhere; wherever
+
+- word: 行ける
+  reading: いける
+  pos: verb
+  meaning: can go
+  note: Potential form of 行く.
+
+- word: はしれ
+  reading: はしれ
+  pos: verb
+  meaning: run!
+  note: Imperative form of 走る, usually written 走れ.
+
+- word: 速く
+  reading: はやく
+  pos: i-adjective
+  meaning: faster
+  note: Adverbial form of 速い.
+
+- word: めざせ
+  reading: めざせ
+  pos: verb
+  meaning: aim for it!
+  note: Imperative form of 目指す.
+
+- word: 遠く
+  reading: とおく
+  pos: i-adjective
+  meaning: farther
+  note: Adverbial form of 遠い.
+
+- word: 新しい
+  reading: あたらしい
+  pos: i-adjective
+  meaning: new; brand-new
+
+- word: 逢える
+  reading: あえる
+  pos: verb
+  meaning: can meet
+  note: Potential form of 逢う, with a literary tone.
+
+- word: 勇気
+  reading: ゆうき
+  pos: noun
+  meaning: courage
+
+- word: 眠る
+  reading: ねむる
+  pos: verb
+  meaning: to sleep; to lie dormant
+
+- word: 気がついたら
+  reading: きがついたら
+  pos: idiom
+  meaning: once you notice
+  note: Past form of 気がつく plus ら.
+
+- word: どしゃ降り
+  reading: どしゃぶり
+  pos: noun
+  meaning: downpour
+
+- word: 止む
+  reading: やむ
+  pos: verb
+  meaning: to stop (of rain, wind, etc.)
+
+- word: 眩しい
+  reading: まぶしい
+  pos: i-adjective
+  meaning: dazzling; radiant
+
+- word: 明日
+  reading: あす
+  pos: noun
+  meaning: tomorrow
+  note: A more formal reading than あした.
+
+- word: 愛する
+  reading: あいする
+  pos: verb
+  meaning: to love; beloved
+
+- word: こわせ
+  reading: こわせ
+  pos: verb
+  meaning: shatter!
+  note: Imperative form of 壊す.
+
+- word: 弱気
+  reading: よわき
+  pos: noun
+  meaning: timidity; faint-heartedness
+
+- word: くずせ
+  reading: くずせ
+  pos: verb
+  meaning: smash!
+  note: Imperative form of 崩す.
+
+- word: ぶつかる
+  reading: ぶつかる
+  pos: verb
+  meaning: to run into; to collide with
+
+- word: 壁
+  reading: かべ
+  pos: noun
+  meaning: wall; by extension, an obstacle
+
+- word: 熱い
+  reading: あつい
+  pos: i-adjective
+  meaning: burning hot
+
+- word: 鼓動
+  reading: こどう
+  pos: noun
+  meaning: heartbeat; pulse
+
+- word: 武器
+  reading: ぶき
+  pos: noun
+  meaning: weapon

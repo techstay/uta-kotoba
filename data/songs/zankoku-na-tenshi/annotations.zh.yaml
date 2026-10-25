@@ -1,0 +1,282 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 残酷
+  reading: ざんこく
+  pos: 形容动词
+  meaning: 残酷的
+
+- word: 天使
+  reading: てんし
+  pos: 名词
+  meaning: 天使
+
+- word: テーゼ
+  reading: てーぜ
+  pos: 名词
+  meaning: 命题、论点
+  note: 源自德语 These，此处指「纲领、主张」。
+
+- word: 神話
+  reading: しんわ
+  pos: 名词
+  meaning: 神话
+
+- word: 蒼い
+  reading: あおい
+  pos: 形容词
+  meaning: 苍蓝的
+  note: 「青い」的文学化写法。
+
+- word: 叩いても
+  reading: たたいても
+  pos: 动词
+  meaning: 即使敲打
+  note: 「叩く」的て形＋も。
+
+- word: 微笑んでる
+  reading: ほほえんでる
+  pos: 动词
+  meaning: 微笑着
+  note: 「微笑む」的进行体「微笑んでいる」的口语缩略。
+
+- word: ふれる
+  reading: ふれる
+  pos: 动词
+  meaning: 触碰
+
+- word: もとめる
+  reading: もとめる
+  pos: 动词
+  meaning: 追求、寻求
+
+- word: 夢中
+  reading: むちゅう
+  pos: 形容动词
+  meaning: 入迷、着迷
+
+- word: 運命
+  reading: うんめい
+  pos: 名词
+  meaning: 命运
+
+- word: 知らない
+  reading: しらない
+  pos: 动词
+  meaning: 不知道
+  note: 「知る」的否定形。
+
+- word: いたいけな
+  reading: いたいけな
+  pos: 形容词
+  meaning: 幼小、天真无邪
+
+- word: 瞳
+  reading: ひとみ
+  pos: 名词
+  meaning: 眼眸、瞳孔
+
+- word: 気付く
+  reading: きづく
+  pos: 动词
+  meaning: 察觉、注意到
+
+- word: 背中
+  reading: せなか
+  pos: 名词
+  meaning: 后背
+
+- word: 遥か
+  reading: はるか
+  pos: 形容动词
+  meaning: 遥远
+
+- word: 未来
+  reading: みらい
+  pos: 名词
+  meaning: 未来
+
+- word: めざす
+  reading: めざす
+  pos: 动词
+  meaning: 以……为目标
+  note: 通常写作「目指す」。
+
+- word: 羽根
+  reading: はね
+  pos: 名词
+  meaning: 羽翼、翅膀
+
+- word: 窓辺
+  reading: まどべ
+  pos: 名词
+  meaning: 窗边
+
+- word: 飛び立つ
+  reading: とびたつ
+  pos: 动词
+  meaning: 起飞、振翅飞起
+
+- word: ほとばしる
+  reading: ほとばしる
+  pos: 动词
+  meaning: 迸发、喷涌
+
+- word: 熱い
+  reading: あつい
+  pos: 形容词
+  meaning: 炽热的
+
+- word: パトス
+  reading: ぱとす
+  pos: 名词
+  meaning: 激情、热情
+  note: 源自希腊语 pathos。
+
+- word: 思い出
+  reading: おもいで
+  pos: 名词
+  meaning: 回忆
+
+- word: 裏切る
+  reading: うらぎる
+  pos: 动词
+  meaning: 背叛、辜负
+
+- word: 宇宙
+  reading: そら
+  pos: 名词
+  meaning: 天空、宇宙
+  note: 歌词中唱作「そら」。
+
+- word: 抱いて
+  reading: だいて
+  pos: 动词
+  meaning: 拥抱
+  note: 「抱く」的て形。
+
+- word: 輝く
+  reading: かがやく
+  pos: 动词
+  meaning: 闪耀、发光
+
+- word: 眠ってる
+  reading: ねむってる
+  pos: 动词
+  meaning: 沉睡着
+  note: 「眠っている」的口语缩略。
+
+- word: 揺りかご
+  reading: ゆりかご
+  pos: 名词
+  meaning: 摇篮
+
+- word: 使者
+  reading: ししゃ
+  pos: 名词
+  meaning: 使者
+
+- word: 呼ばれる
+  reading: よばれる
+  pos: 动词
+  meaning: 被呼唤
+  note: 「呼ぶ」的被动形。
+
+- word: 首筋
+  reading: くびすじ
+  pos: 名词
+  meaning: 脖颈、后颈
+
+- word: 月あかり
+  reading: つきあかり
+  pos: 名词
+  meaning: 月光
+
+- word: 映してる
+  reading: うつしてる
+  pos: 动词
+  meaning: 映照着
+  note: 「映す」的进行体「映している」的口语缩略。
+
+- word: 世界中
+  reading: せかいじゅう
+  pos: 名词
+  meaning: 全世界
+
+- word: 止めて
+  reading: とめて
+  pos: 动词
+  meaning: 停下、止住
+  note: 「止める」的て形。
+
+- word: 閉じこめたい
+  reading: とじこめたい
+  pos: 动词
+  meaning: 想关起来、想封闭住
+
+- word: ふたり
+  reading: ふたり
+  pos: 名词
+  meaning: 两个人
+
+- word: 逢えた
+  reading: あえた
+  pos: 动词
+  meaning: 相遇了
+  note: 「逢う」的过去式，带文学色彩。
+
+- word: バイブル
+  reading: ばいぶる
+  pos: 名词
+  meaning: 圣经；引申为指南、宝典
+
+- word: 悲しみ
+  reading: かなしみ
+  pos: 名词
+  meaning: 悲伤
+
+- word: はじまる
+  reading: はじまる
+  pos: 动词
+  meaning: 开始
+
+- word: 抱きしめた
+  reading: だきしめた
+  pos: 动词
+  meaning: 紧紧抱住了
+  note: 「抱きしめる」的过去式。
+
+- word: 目覚めた
+  reading: めざめた
+  pos: 动词
+  meaning: 觉醒、醒来
+  note: 「目覚める」的过去式。
+
+- word: 光
+  reading: ひかり
+  pos: 名词
+  meaning: 光、光芒
+
+- word: 放つ
+  reading: はなつ
+  pos: 动词
+  meaning: 放出、发出
+
+- word: つむぎながら
+  reading: つむぎながら
+  pos: 动词
+  meaning: 一边编织
+  note: 「つむぐ」的连用形＋ながら，此处指编织爱。
+
+- word: 歴史
+  reading: れきし
+  pos: 名词
+  meaning: 历史
+
+- word: 女神
+  reading: めがみ
+  pos: 名词
+  meaning: 女神
+
+- word: 生きる
+  reading: いきる
+  pos: 动词
+  meaning: 活着、生存

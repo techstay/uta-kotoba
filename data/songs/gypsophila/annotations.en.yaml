@@ -1,0 +1,295 @@
+# Match key: `word` must exactly match the surface form in lyrics.txt.
+- word: 回る
+  reading: まわる
+  pos: verb
+  meaning: to turn; to revolve
+
+- word: 世界
+  reading: せかい
+  pos: noun
+  meaning: world
+
+- word: 心なしか
+  reading: こころなしか
+  pos: adverb
+  meaning: somehow; as if by imagination
+
+- word: 尊く
+  reading: とうとく
+  pos: i-adjective
+  meaning: preciously; reverently
+  note: Adverbial form of 尊い.
+
+- word: 思えた
+  reading: おもえた
+  pos: verb
+  meaning: seemed; felt
+  note: Past form of 思える.
+
+- word: 通りがかる
+  reading: とおりがかる
+  pos: verb
+  meaning: to happen to pass by
+
+- word: 公園前
+  reading: こうえんまえ
+  pos: noun
+  meaning: in front of the park
+
+- word: 季節
+  reading: きせつ
+  pos: noun
+  meaning: season
+
+- word: 訪れ
+  reading: おとずれ
+  pos: noun
+  meaning: arrival; visit
+
+- word: 後ろ髪
+  reading: うしろがみ
+  pos: noun
+  meaning: the hair at the back of one's head
+  note: 後ろ髪を引かれる means "to be reluctant to leave."
+
+- word: 駆け足
+  reading: かけあし
+  pos: noun
+  meaning: running; a quick pace
+
+- word: 生きてゆく
+  reading: いきてゆく
+  pos: verb
+  meaning: to keep living
+  note: Literary form of 生きていく.
+
+- word: 木々
+  reading: きぎ
+  pos: noun
+  meaning: trees
+
+- word: 乱れ
+  reading: みだれ
+  pos: verb
+  meaning: to be disordered; to be in disarray
+  note: Stem of 乱れる.
+
+- word: 車窓
+  reading: しゃそう
+  pos: noun
+  meaning: train window
+
+- word: 染めた
+  reading: そめた
+  pos: verb
+  meaning: dyed
+  note: Past form of 染める.
+
+- word: 花びら
+  reading: はなびら
+  pos: noun
+  meaning: petals
+
+- word: 未来
+  reading: みらい
+  pos: noun
+  meaning: future
+
+- word: 進み続けよう
+  reading: すすみつづけよう
+  pos: verb
+  meaning: let's keep moving forward
+  note: Volitional form of 進み続ける.
+
+- word: 名前
+  reading: なまえ
+  pos: noun
+  meaning: name
+
+- word: 優しさ
+  reading: やさしさ
+  pos: noun
+  meaning: kindness
+
+- word: 大切
+  reading: たいせつ
+  pos: na-adjective
+  meaning: precious; important
+
+- word: 感じさせて
+  reading: かんじさせて
+  pos: verb
+  meaning: let me feel
+  note: Te-form of 感じさせる.
+
+- word: 笑顔
+  reading: えがお
+  pos: noun
+  meaning: smile
+
+- word: つまずいて
+  reading: つまずいて
+  pos: verb
+  meaning: to stumble
+  note: Te-form of つまずく.
+
+- word: 立ち上がれなくてもいい
+  reading: たちあがれなくてもいい
+  pos: verb
+  meaning: it's okay if you can't stand up
+
+- word: 此処
+  reading: ここ
+  pos: pronoun
+  meaning: here
+  note: Literary spelling of ここ.
+
+- word: 嬉しい
+  reading: うれしい
+  pos: i-adjective
+  meaning: happy; glad
+
+- word: 慌ただしく
+  reading: あわただしく
+  pos: i-adjective
+  meaning: hurriedly; frantically
+  note: Adverbial form of 慌ただしい.
+
+- word: 取り残された
+  reading: とりのこされた
+  pos: verb
+  meaning: left behind
+  note: Past passive form of 取り残される.
+
+- word: 動き出した
+  reading: うごきだした
+  pos: verb
+  meaning: started to move
+
+- word: 閉ざされた
+  reading: とざされた
+  pos: verb
+  meaning: shut; closed off
+  note: Past passive form of 閉ざす.
+
+- word: 心模様
+  reading: こころもよう
+  pos: noun
+  meaning: state of mind; inner landscape
+
+- word: 確かな
+  reading: たしかな
+  pos: na-adjective
+  meaning: certain; reliable
+  note: Attributive form of 確かだ.
+
+- word: 心ない
+  reading: こころない
+  pos: i-adjective
+  meaning: heartless; inconsiderate
+
+- word: 誰かの言葉
+  reading: だれかのやいば
+  pos: noun
+  meaning: someone's words
+  note: Here 言葉 is sung as やいば ("blade"), sharpening the image of words that wound.
+
+- word: 傷つけたり
+  reading: きずつけたり
+  pos: verb
+  meaning: to hurt (someone)
+  note: たり form of 傷つける.
+
+- word: 過ち
+  reading: あやまち
+  pos: noun
+  meaning: mistake; fault
+
+- word: 重ねてく
+  reading: かさねてく
+  pos: verb
+  meaning: to pile up; to repeat
+  note: Colloquial contraction of 重ねていく.
+
+- word: 隣の席
+  reading: となりのせき
+  pos: noun
+  meaning: the seat next to me
+
+- word: はにかんだ
+  reading: はにかんだ
+  pos: verb
+  meaning: shy; bashful
+  note: Past form of はにかむ.
+
+- word: 赤子
+  reading: こ
+  pos: noun
+  meaning: baby
+  note: Sung as こ here; normally read あかご.
+
+- word: 思わず
+  reading: おもわず
+  pos: adverb
+  meaning: without thinking; unconsciously
+
+- word: 二度と
+  reading: にどと
+  pos: adverb
+  meaning: never again
+  note: Followed by a negative.
+
+- word: 注ぐ
+  reading: そそぐ
+  pos: verb
+  meaning: to pour; to bestow
+
+- word: 雁字搦め
+  reading: がんじがらめ
+  pos: na-adjective
+  meaning: bound tight; tied hand and foot
+  note: Figuratively, restrained and unable to move.
+
+- word: 解いてくから
+  reading: ほどいてくから
+  pos: verb
+  meaning: because I'll untie it for you
+  note: Colloquial contraction of 解いていく.
+
+- word: 解れない
+  reading: ほどれない
+  pos: verb
+  meaning: cannot be untied
+  note: Negative form of 解ける.
+
+- word: 何気ない
+  reading: なにげない
+  pos: i-adjective
+  meaning: casual; offhand
+
+- word: 花束
+  reading: はなたば
+  pos: noun
+  meaning: bouquet
+
+- word: ギプソフィラで
+  reading: ぎぷそふぃらで
+  pos: noun
+  meaning: with gypsophila
+  note: Gypsophila, often used as a filler flower in bouquets.
+
+- word: 咲き誇った
+  reading: さきほこった
+  pos: verb
+  meaning: bloomed proudly
+  note: Past form of 咲き誇る.
+
+- word: ふわり
+  reading: ふわり
+  pos: adverb
+  meaning: softly; lightly floating
+
+- word: 繋がる
+  reading: つながる
+  pos: verb
+  meaning: to connect; to be linked

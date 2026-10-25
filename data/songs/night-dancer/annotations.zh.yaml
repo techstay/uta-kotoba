@@ -1,0 +1,283 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: どうでもいいような
+  reading: どうでもいいような
+  pos: 惯用句
+  meaning: 怎样都无所谓的
+  note: 「どうでもいい」的连体形。
+
+- word: 夜
+  reading: よる
+  pos: 名词
+  meaning: 夜晚
+
+- word: 響めき
+  reading: どよめき
+  pos: 名词
+  meaning: 轰鸣；骚动
+  note: 通常写作「響き」并读作「ひびき」，此处配合旋律唱作「どよめき」。
+
+- word: 煌めき
+  reading: きらめき
+  pos: 名词
+  meaning: 闪耀；光辉
+
+- word: 踊ろう
+  reading: おどろう
+  pos: 动词
+  meaning: 起舞吧
+  note: 「踊る」的意志形。
+
+- word: 刻もう
+  reading: きざもう
+  pos: 动词
+  meaning: 铭刻吧
+  note: 「刻む」的意志形。
+
+- word: 止まった
+  reading: とまった
+  pos: 动词
+  meaning: 停下了
+  note: 「止まる」的过去式。
+
+- word: 刻む
+  reading: きざむ
+  pos: 动词
+  meaning: 雕刻；指针滴答走动
+  note: 「刻む針」指滴答走动的指针。
+
+- word: 針
+  reading: はり
+  pos: 名词
+  meaning: 针；指针
+
+- word: 入り浸った
+  reading: いりびたった
+  pos: 动词
+  meaning: 赖着不走；一直泡在
+  note: 「入り浸る」的过去式。
+
+- word: 散らかる
+  reading: ちらかる
+  pos: 动词
+  meaning: 变得凌乱
+
+- word: 部屋
+  reading: へや
+  pos: 名词
+  meaning: 房间
+
+- word: 変わらないね
+  reading: かわらないね
+  pos: 动词
+  meaning: 都没变呢
+
+- word: 思い出して
+  reading: おもいだして
+  pos: 动词
+  meaning: 回想起来
+  note: 「思い出す」的て形。
+
+- word: 二人
+  reading: ふたり
+  pos: 名词
+  meaning: 两个人
+
+- word: 歳を重ねてた
+  reading: としをかさねてた
+  pos: 惯用句
+  meaning: 一起渐渐长大
+  note: 「歳を重ねていた」的口语缩略。
+
+- word: 落とす
+  reading: おとす
+  pos: 动词
+  meaning: 落下；放下
+
+- word: 流した
+  reading: ながした
+  pos: 动词
+  meaning: 播放了；流过
+  note: 「流す」的过去式，此处指播放唱片。
+
+- word: 聞き飽きるほど
+  reading: ききあきるほど
+  pos: 惯用句
+  meaning: 听到腻的程度
+
+- word: いられた
+  reading: いられた
+  pos: 动词
+  meaning: 能够待着
+  note: 「いる」的可能形过去式。
+
+- word: 無駄話
+  reading: むだばなし
+  pos: 名词
+  meaning: 闲聊；废话
+
+- word: はぐらかして
+  reading: はぐらかして
+  pos: 动词
+  meaning: 岔开话题；搪塞
+  note: 「はぐらかす」的て形。
+
+- word: 触れた
+  reading: ふれた
+  pos: 动词
+  meaning: 触碰到的
+  note: 「触れる」的过去式。
+
+- word: ためらうように
+  reading: ためらうように
+  pos: 惯用句
+  meaning: 像是犹豫着
+
+- word: 足踏みして
+  reading: あしぶみして
+  pos: 动词
+  meaning: 原地踏步
+  note: 「足踏みする」的て形。
+
+- word: ズレた
+  reading: ずれた
+  pos: 动词
+  meaning: 错位的
+  note: 「ズレる」的过去式。
+
+- word: 余所に
+  reading: よそに
+  pos: 副词
+  meaning: 放到一边；不顾
+
+- word: 揃い始めてた
+  reading: そろいはじめてた
+  pos: 动词
+  meaning: 开始渐渐一致
+  note: 「揃い始めていた」的口语缩略。
+
+- word: 息
+  reading: いき
+  pos: 名词
+  meaning: 呼吸；气息
+
+- word: 透き通った
+  reading: すきとおった
+  pos: 动词
+  meaning: 通透的；清澈的
+  note: 「透き通る」的过去式。
+
+- word: 肌
+  reading: はだ
+  pos: 名词
+  meaning: 皮肤
+
+- word: 無邪気
+  reading: むじゃき
+  pos: 形容动词
+  meaning: 天真无邪
+
+- word: 見つめる
+  reading: みつめる
+  pos: 动词
+  meaning: 凝视
+
+- word: 溢れる
+  reading: あふれる
+  pos: 动词
+  meaning: 满溢
+
+- word: メモリー
+  reading: めもりー
+  pos: 名词
+  meaning: 回忆；memory
+
+- word: 浮つく
+  reading: うわつく
+  pos: 动词
+  meaning: 浮躁；心神不定
+
+- word: コーヒー
+  reading: こーひー
+  pos: 名词
+  meaning: 咖啡
+
+- word: 掠れた
+  reading: かすれた
+  pos: 动词
+  meaning: 沙哑的
+  note: 「掠れる」的过去式。
+
+- word: メロディー
+  reading: めろでぃー
+  pos: 名词
+  meaning: 旋律
+
+- word: 混ざりあってよう
+  reading: まざりあってよう
+  pos: 动词
+  meaning: 就让彼此混合吧
+  note: 「混ざり合っていよう」的口语说法。
+
+- word: もう一度
+  reading: もういちど
+  pos: 副词
+  meaning: 再一次
+
+- word: ときめき
+  reading: ときめき
+  pos: 名词
+  meaning: 心动；心跳
+
+- word: 色めき
+  reading: いろめき
+  pos: 名词
+  meaning: 色彩涌现；因兴奋而骚动
+
+- word: 夜は長い
+  reading: よるはながい
+  pos: 惯用句
+  meaning: 夜还很长
+
+- word: おぼつかない
+  reading: おぼつかない
+  pos: 形容词
+  meaning: 不稳；没有把握
+
+- word: ミュージック
+  reading: みゅーじっく
+  pos: 名词
+  meaning: 音乐
+
+- word: 君といたい
+  reading: きみといたい
+  pos: 惯用句
+  meaning: 想和你在一起
+
+- word: 溺れてたい
+  reading: おぼれてたい
+  pos: 动词
+  meaning: 想沉溺其中
+  note: 「溺れていたい」的口语缩略。
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天
+
+- word: 愛して
+  reading: あいして
+  pos: 动词
+  meaning: 爱我吧
+  note: 「愛する」的て形，此处作请求。
+
+- word: ふらつき
+  reading: ふらつき
+  pos: 动词
+  meaning: 摇晃；脚步不稳
+  note: 「ふらつく」的连用形。
+
+- word: よろめき
+  reading: よろめき
+  pos: 动词
+  meaning: 踉跄
+  note: 「よろめく」的连用形。

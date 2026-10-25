@@ -1,0 +1,285 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 雨上がり
+  reading: あめあがり
+  pos: 名词
+  meaning: 雨停之后；雨后
+
+- word: 凛と
+  reading: りんと
+  pos: 副词
+  meaning: 凛然地；端正而凛冽地
+  note: 「凛」形容庄严、端正而带凉意的样子。
+
+- word: 咲いた
+  reading: さいた
+  pos: 动词
+  meaning: 绽放了
+  note: 「咲く」的过去式。
+
+- word: 色づき
+  reading: いろづき
+  pos: 动词
+  meaning: 染上颜色
+  note: 「色づく」的连用形。
+
+- word: 溢れ出す
+  reading: あふれだす
+  pos: 动词
+  meaning: 满溢而出
+
+- word: 茜色
+  reading: あかねいろ
+  pos: 名词
+  meaning: 茜红色；暗红色
+
+- word: 仰ぐ
+  reading: あおぐ
+  pos: 动词
+  meaning: 仰望
+
+- word: 恋に落ちた
+  reading: こいにおちた
+  pos: 惯用句
+  meaning: 坠入了爱河
+
+- word: 瞬間
+  reading: しゅんかん
+  pos: 名词
+  meaning: 瞬间
+
+- word: 刻む
+  reading: きざむ
+  pos: 动词
+  meaning: 雕刻；铭刻
+
+- word: 君
+  reading: きみ
+  pos: 代词
+  meaning: 你
+
+- word: 暗闇
+  reading: くらやみ
+  pos: 名词
+  meaning: 黑暗
+
+- word: 光る
+  reading: ひかる
+  pos: 动词
+  meaning: 发光；闪耀
+
+- word: 星空
+  reading: ほしぞら
+  pos: 名词
+  meaning: 星空
+
+- word: 悲しみ
+  reading: かなしみ
+  pos: 名词
+  meaning: 悲伤
+
+- word: 笑顔
+  reading: えがお
+  pos: 名词
+  meaning: 笑容
+
+- word: 隠さないで
+  reading: かくさないで
+  pos: 动词
+  meaning: 不要隐藏
+  note: 「隠す」的否定て形。
+
+- word: 煌めく
+  reading: きらめく
+  pos: 动词
+  meaning: 闪耀
+  note: 「煌く」的异体表记，读作「きらめく」。
+
+- word: 照らす
+  reading: てらす
+  pos: 动词
+  meaning: 照亮
+
+- word: 眠り
+  reading: ねむり
+  pos: 名词
+  meaning: 睡眠
+
+- word: 忘れて
+  reading: わすれて
+  pos: 动词
+  meaning: 忘记
+  note: 「忘れる」的て形。
+
+- word: 迎えた
+  reading: むかえた
+  pos: 动词
+  meaning: 迎来了
+  note: 「迎える」的过去式。
+
+- word: 朝日
+  reading: あさひ
+  pos: 名词
+  meaning: 朝阳
+
+- word: 突き刺さる
+  reading: つきささる
+  pos: 动词
+  meaning: 刺入；刺痛
+
+- word: 低気圧
+  reading: ていきあつ
+  pos: 名词
+  meaning: 低气压
+
+- word: 頭痛
+  reading: ずつう
+  pos: 名词
+  meaning: 头痛
+
+- word: 会えば
+  reading: あえば
+  pos: 动词
+  meaning: 如果见面
+  note: 「会う」的假定形。
+
+- word: 静寂
+  reading: せいじゃく
+  pos: 名词
+  meaning: 寂静
+
+- word: 紅茶
+  reading: こうちゃ
+  pos: 名词
+  meaning: 红茶
+
+- word: 溶けた
+  reading: とけた
+  pos: 动词
+  meaning: 融化了
+  note: 「溶ける」的过去式。
+
+- word: 全身
+  reading: ぜんしん
+  pos: 名词
+  meaning: 全身
+
+- word: 巡る
+  reading: めぐる
+  pos: 动词
+  meaning: 循环；流转
+
+- word: 涙
+  reading: なみだ
+  pos: 名词
+  meaning: 眼泪
+
+- word: 流星
+  reading: りゅうせい
+  pos: 名词
+  meaning: 流星
+
+- word: 傷付いた
+  reading: きずついた
+  pos: 动词
+  meaning: 受伤了
+  note: 「傷付く」的过去式。
+
+- word: 離さないで
+  reading: はなさないで
+  pos: 动词
+  meaning: 不要放开
+  note: 「離す」的否定て形。
+
+- word: 願い
+  reading: ねがい
+  pos: 名词
+  meaning: 愿望
+
+- word: 込めた
+  reading: こめた
+  pos: 动词
+  meaning: 倾注了
+  note: 「込める」的过去式。
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天
+
+- word: 導いて
+  reading: みちびいて
+  pos: 动词
+  meaning: 指引
+  note: 「導く」的て形。
+
+- word: 光
+  reading: ひかり
+  pos: 名词
+  meaning: 光；光芒
+
+- word: 僕
+  reading: ぼく
+  pos: 代词
+  meaning: 我
+
+- word: 走り出した
+  reading: はしりだした
+  pos: 动词
+  meaning: 跑了起来
+
+- word: 知らぬ間に
+  reading: しらぬまに
+  pos: 惯用句
+  meaning: 不知不觉之间
+
+- word: 終わる
+  reading: おわる
+  pos: 动词
+  meaning: 结束
+
+- word: 答え
+  reading: こたえ
+  pos: 名词
+  meaning: 答案
+
+- word: 偶然
+  reading: ぐうぜん
+  pos: 名词
+  meaning: 偶然
+
+- word: 必然
+  reading: ひつぜん
+  pos: 名词
+  meaning: 必然
+
+- word: 選んだ
+  reading: えらんだ
+  pos: 动词
+  meaning: 选择了
+  note: 「選ぶ」的过去式。
+
+- word: 運命
+  reading: うんめい
+  pos: 名词
+  meaning: 命运
+
+- word: 握りしめた
+  reading: にぎりしめた
+  pos: 动词
+  meaning: 紧紧握住了
+
+- word: 希望
+  reading: きぼう
+  pos: 名词
+  meaning: 希望
+
+- word: 不安
+  reading: ふあん
+  pos: 名词
+  meaning: 不安
+
+- word: 2人
+  reading: ふたり
+  pos: 名词
+  meaning: 两个人
+  note: 此处读作「ふたり」，指“我们两人”。

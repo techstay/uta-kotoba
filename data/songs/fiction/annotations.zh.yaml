@@ -1,0 +1,262 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 見つけたい
+  reading: みつけたい
+  pos: 动词
+  meaning: 想找到
+  note: 「見つける」的愿望形。
+
+- word: 知らない
+  reading: しらない
+  pos: 动词
+  meaning: 不知道的
+  note: 「知る」的否定形。
+
+- word: 探してる
+  reading: さがしてる
+  pos: 动词
+  meaning: 正在寻找
+  note: 「探している」的口语缩略。
+
+- word: 話したい
+  reading: はなしたい
+  pos: 动词
+  meaning: 想倾诉；想说
+  note: 「話す」的愿望形。
+
+- word: 時間
+  reading: じかん
+  pos: 名词
+  meaning: 时间
+
+- word: 過ぎてゆく
+  reading: すぎてゆく
+  pos: 动词
+  meaning: 渐渐流逝
+  note: 「過ぎていく」的文学化写法。
+
+- word: 明日
+  reading: あす
+  pos: 名词
+  meaning: 明天
+  note: 本曲中唱作「あす」。
+
+- word: 場所
+  reading: ばしょ
+  pos: 名词
+  meaning: 地方；场所
+
+- word: 会える
+  reading: あえる
+  pos: 动词
+  meaning: 能见面
+  note: 「会う」的可能形。
+
+- word: サイズ
+  reading: さいず
+  pos: 名词
+  meaning: 尺寸
+
+- word: 胸の内
+  reading: むねのうち
+  pos: 惯用句
+  meaning: 内心；心中
+
+- word: 見えない
+  reading: みえない
+  pos: 动词
+  meaning: 看不见
+  note: 「見える」的否定形。
+
+- word: 様に
+  reading: ように
+  pos: 惯用句
+  meaning: 为了…；以便…
+  note: 「見えない様に」＝为了不被看见。
+
+- word: 覆い隠した
+  reading: おおいかくした
+  pos: 动词
+  meaning: 遮掩住了
+
+- word: なんでも良いけれど
+  reading: なんでもいいけれど
+  pos: 惯用句
+  meaning: 什么都好，不过…
+
+- word: 一枚
+  reading: いちまい
+  pos: 名词
+  meaning: 一张；一层
+
+- word: 隔てたら
+  reading: へだてたら
+  pos: 动词
+  meaning: 如果隔开
+  note: 「隔てる」的假定形。
+
+- word: 本音
+  reading: ほんね
+  pos: 名词
+  meaning: 真心话
+
+- word: きけるから
+  reading: きけるから
+  pos: 动词
+  meaning: 因为能听到
+  note: 「聞く」的可能形「聞ける」的口语说法。
+
+- word: フィクション
+  reading: ふぃくしょん
+  pos: 名词
+  meaning: 虚构；小说
+
+- word: ノンフィクション
+  reading: のんふぃくしょん
+  pos: 名词
+  meaning: 非虚构；纪实
+
+- word: 事実
+  reading: じじつ
+  pos: 名词
+  meaning: 事实
+
+- word: 嘘
+  reading: うそ
+  pos: 名词
+  meaning: 谎言
+
+- word: ほんと
+  reading: ほんと
+  pos: 名词
+  meaning: 真的；实话
+  note: 「本当」的口语形。
+
+- word: 全部
+  reading: ぜんぶ
+  pos: 名词
+  meaning: 全部
+
+- word: 横たわる
+  reading: よこたわる
+  pos: 动词
+  meaning: 横躺；横陈
+
+- word: 世界
+  reading: せかい
+  pos: 名词
+  meaning: 世界
+
+- word: 気づけば
+  reading: きづけば
+  pos: 连词
+  meaning: 等注意到时
+
+- word: 暮れている
+  reading: くれている
+  pos: 动词
+  meaning: 天色已晚
+  note: 「暮れる」的て形＋いる。
+
+- word: 頼らずに
+  reading: たよらずに
+  pos: 动词
+  meaning: 不依靠
+  note: 「頼る」的否定形＋ずに。
+
+- word: お馴染み
+  reading: おなじみ
+  pos: 形容动词
+  meaning: 熟悉的；常见的
+
+- word: 合図
+  reading: あいず
+  pos: 名词
+  meaning: 暗号；信号
+
+- word: 仕草
+  reading: しぐさ
+  pos: 名词
+  meaning: 动作；举止
+
+- word: 一つで
+  reading: ひとつで
+  pos: 名词
+  meaning: 只要一个（动作）
+
+- word: 分かる
+  reading: わかる
+  pos: 动词
+  meaning: 明白
+
+- word: 2人
+  reading: ふたり
+  pos: 名词
+  meaning: 两个人
+  note: 此处读作「ふたり」。
+
+- word: 交差する
+  reading: こうさする
+  pos: 动词
+  meaning: 交叉
+
+- word: 宙
+  reading: ちゅう
+  pos: 名词
+  meaning: 空中；虚空
+  note: 「宙に浮く」＝悬在半空。
+
+- word: テレパシー
+  reading: てれぱしー
+  pos: 名词
+  meaning: 心灵感应
+
+- word: 読み違え
+  reading: よみちがえ
+  pos: 名词
+  meaning: 读错；会错意
+
+- word: 特別
+  reading: とくべつ
+  pos: 形容动词
+  meaning: 特别
+
+- word: 為に
+  reading: ために
+  pos: 惯用句
+  meaning: 为了…
+
+- word: 何気ない
+  reading: なにげない
+  pos: 形容词
+  meaning: 不经意的；若无其事的
+
+- word: 日々
+  reading: ひび
+  pos: 名词
+  meaning: 每天；日子
+
+- word: 側
+  reading: そば
+  pos: 名词
+  meaning: 旁边；身边
+
+- word: 思い返せば
+  reading: おもいかえせば
+  pos: 动词
+  meaning: 回想起来的话
+  note: 「思い返す」的假定形。
+
+- word: 気が合う
+  reading: きがあう
+  pos: 惯用句
+  meaning: 合得来；投缘
+
+- word: 思い通り
+  reading: おもいどおり
+  pos: 名词
+  meaning: 如愿；按自己的想法
+
+- word: 楽しみ
+  reading: たのしみ
+  pos: 名词
+  meaning: 乐趣；期待

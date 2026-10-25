@@ -1,0 +1,283 @@
+# Match key: `word` must exactly match the surface form in lyrics.txt.
+- word: 欲しい
+  reading: ほしい
+  pos: i-adjective
+  meaning: want; desired
+
+- word: 愛
+  reading: あい
+  pos: noun
+  meaning: love
+
+- word: 抱かれ
+  reading: だかれ
+  pos: verb
+  meaning: to be held; to be embraced
+  note: Passive form of 抱く.
+
+- word: ギラギラ
+  reading: ぎらぎら
+  pos: adverb
+  meaning: glaringly; blazing
+
+- word: 燃えて
+  reading: もえて
+  pos: verb
+  meaning: to burn
+  note: Te-form of 燃える; here, passion burning hot.
+
+- word: 可愛げ
+  reading: かわいげ
+  pos: noun
+  meaning: cuteness; charm
+
+- word: KISS
+  reading: きす
+  pos: noun
+  meaning: kiss
+
+- word: 目線
+  reading: めせん
+  pos: noun
+  meaning: gaze; line of sight
+
+- word: そらして
+  reading: そらして
+  pos: verb
+  meaning: to avert; to look away
+  note: Te-form of そらす.
+
+- word: ズルイ
+  reading: ずるい
+  pos: i-adjective
+  meaning: sly; unfair
+
+- word: 火照り出す
+  reading: ほてりだす
+  pos: verb
+  meaning: to start to flush; to grow hot
+
+- word: 気持ち
+  reading: きもち
+  pos: noun
+  meaning: feelings; emotions
+
+- word: もてあそぶ
+  reading: もてあそぶ
+  pos: verb
+  meaning: to toy with; to play with
+
+- word: 追いかけちゃ
+  reading: おいかけちゃ
+  pos: verb
+  meaning: to chase
+  note: Colloquial contraction of 追いかけては.
+
+- word: 踏み出せば
+  reading: ふみだせば
+  pos: verb
+  meaning: once I step forward
+  note: Conditional form of 踏み出す.
+
+- word: 戻れなくて
+  reading: もどれなくて
+  pos: verb
+  meaning: unable to turn back
+  note: Negative potential of 戻る plus て.
+
+- word: 脱ぎ捨てて
+  reading: ぬぎすてて
+  pos: verb
+  meaning: to throw off
+  note: Te-form of 脱ぎ捨てる.
+
+- word: 本気
+  reading: マジ
+  pos: noun
+  meaning: seriousness; for real
+  note: Usually read ほんき, but sung as マジ here.
+
+- word: 騙されたら
+  reading: だまされたら
+  pos: verb
+  meaning: if I am deceived
+  note: Conditional passive form of 騙す.
+
+- word: 震わせて
+  reading: ふるわせて
+  pos: verb
+  meaning: to make (someone) tremble
+  note: Causative form of 震える.
+
+- word: 魅せて
+  reading: みせて
+  pos: verb
+  meaning: to show; to enchant
+  note: Te-form of 魅せる.
+
+- word: 笑顔
+  reading: えがお
+  pos: noun
+  meaning: smile
+
+- word: 躊躇
+  reading: ちゅうちょ
+  pos: noun
+  meaning: hesitation
+
+- word: 二度と
+  reading: にどと
+  pos: adverb
+  meaning: never again
+  note: Followed by a negative.
+
+- word: 逢えない
+  reading: あえない
+  pos: verb
+  meaning: cannot meet
+  note: Negative potential form of 逢う.
+
+- word: 後悔
+  reading: こうかい
+  pos: noun
+  meaning: regret
+
+- word: 暮れる
+  reading: くれる
+  pos: verb
+  meaning: to be lost in; to spend (time)
+  note: 後悔に暮れる means "to be mired in regret."
+
+- word: 恋
+  reading: こい
+  pos: noun
+  meaning: love; romance
+
+- word: 焼かれたい
+  reading: やかれたい
+  pos: verb
+  meaning: want to be burned
+  note: Passive form of 焼く plus desire.
+
+- word: 流し目
+  reading: ながしめ
+  pos: noun
+  meaning: sidelong glance; flirtatious look
+
+- word: 愛しさ
+  reading: いとしさ
+  pos: noun
+  meaning: affection; tenderness
+
+- word: 刺激する
+  reading: しげきする
+  pos: verb
+  meaning: to stimulate; to stir
+
+- word: 振り返る
+  reading: ふりかえる
+  pos: verb
+  meaning: to turn around; to look back
+
+- word: 美しさ
+  reading: うつくしさ
+  pos: noun
+  meaning: beauty
+
+- word: 呼吸
+  reading: こきゅう
+  pos: noun
+  meaning: breath; breathing
+
+- word: 止まって
+  reading: とまって
+  pos: verb
+  meaning: to stop
+  note: Te-form of 止まる.
+
+- word: 綺麗な
+  reading: きれいな
+  pos: na-adjective
+  meaning: beautiful; clean
+
+- word: 危険な
+  reading: きけんな
+  pos: na-adjective
+  meaning: dangerous
+
+- word: 願い
+  reading: ねがい
+  pos: noun
+  meaning: wish
+
+- word: 止めないで
+  reading: とめないで
+  pos: verb
+  meaning: don't stop
+  note: Negative te-form of 止める.
+
+- word: 連れていく
+  reading: つれていく
+  pos: verb
+  meaning: to take (someone) along
+
+- word: くちびる
+  reading: くちびる
+  pos: noun
+  meaning: lips
+
+- word: 優しく
+  reading: やさしく
+  pos: i-adjective
+  meaning: gently
+  note: Adverbial form of 優しい.
+
+- word: 微笑む
+  reading: ほほえむ
+  pos: verb
+  meaning: to smile
+
+- word: 飲み込まれて
+  reading: のみこまれて
+  pos: verb
+  meaning: to be swallowed up
+  note: Passive form of 飲み込む.
+
+- word: いざなわれて
+  reading: いざなわれて
+  pos: verb
+  meaning: to be invited; to be led on
+  note: Passive form of 誘う.
+
+- word: 未知
+  reading: みち
+  pos: noun
+  meaning: the unknown
+
+- word: ゆだねて
+  reading: ゆだねて
+  pos: verb
+  meaning: to entrust; to surrender
+  note: Te-form of 委ねる, more complete than 任せる.
+
+- word: 壊れる
+  reading: こわれる
+  pos: verb
+  meaning: to break; to fall apart
+
+- word: 狂わせて
+  reading: くるわせて
+  pos: verb
+  meaning: to drive (someone) mad
+  note: Causative form of 狂う.
+
+- word: 果てる
+  reading: はてる
+  pos: verb
+  meaning: to end; to run out
+  note: いのち果てる means "life comes to an end."
+
+- word: 夜明け
+  reading: よあけ
+  pos: noun
+  meaning: dawn; daybreak

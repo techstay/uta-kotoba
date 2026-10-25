@@ -1,0 +1,291 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: まさか
+  reading: まさか
+  pos: 副词
+  meaning: 难道、没想到
+  note: 常用于表达意外。
+
+- word: 出会い
+  reading: であい
+  pos: 名词
+  meaning: 相遇、邂逅
+
+- word: 僕ら
+  reading: ぼくら
+  pos: 代词
+  meaning: 我们
+
+- word: 真っ逆さま
+  reading: まっさかさま
+  pos: 形容动词
+  meaning: 头朝下、倒栽葱；引申为完全颠倒
+
+- word: 脆くなった
+  reading: もろくなった
+  pos: 形容词
+  meaning: 变脆弱了
+  note: 「脆い」的过去式。
+
+- word: 一人
+  reading: ひとり
+  pos: 名词
+  meaning: 一个人
+
+- word: 慣れっこ
+  reading: なれっこ
+  pos: 名词
+  meaning: 已经习惯、习以为常
+
+- word: 荒野
+  reading: こうや
+  pos: 名词
+  meaning: 荒野、荒原
+
+- word: 追憶
+  reading: ついおく
+  pos: 名词
+  meaning: 追忆、回忆
+
+- word: メモリー
+  reading: メモリー
+  pos: 名词
+  meaning: 记忆（memory）
+
+- word: 誰だって
+  reading: だれだって
+  pos: 代词
+  meaning: 无论是谁
+
+- word: 背中
+  reading: せなか
+  pos: 名词
+  meaning: 背、后背
+
+- word: 不安
+  reading: ふあん
+  pos: 形容动词
+  meaning: 不安、担心
+
+- word: 君
+  reading: きみ
+  pos: 代词
+  meaning: 你
+
+- word: 声
+  reading: こえ
+  pos: 名词
+  meaning: 声音
+
+- word: 朝
+  reading: あさ
+  pos: 名词
+  meaning: 早晨
+
+- word: 光
+  reading: ひかり
+  pos: 名词
+  meaning: 光、光芒
+
+- word: 眩しく
+  reading: まぶしく
+  pos: 形容词
+  meaning: 耀眼地、炫目地
+  note: 「眩しい」的连用形。
+
+- word: 照らすんだ
+  reading: てらすんだ
+  pos: 动词
+  meaning: 照亮
+  note: 「照らす」＋强调的「んだ」。
+
+- word: 道
+  reading: みち
+  pos: 名词
+  meaning: 道路
+
+- word: 手
+  reading: て
+  pos: 名词
+  meaning: 手
+
+- word: 繋いで
+  reading: つないで
+  pos: 动词
+  meaning: 牵着、连接
+  note: 「繋ぐ」的て形。
+
+- word: 走り出そう
+  reading: はしりだそう
+  pos: 动词
+  meaning: 跑起来吧
+  note: 「走り出す」的意志形。
+
+- word: 楽しさ
+  reading: たのしさ
+  pos: 名词
+  meaning: 快乐
+
+- word: 二倍
+  reading: にばい
+  pos: 名词
+  meaning: 两倍
+
+- word: マジック
+  reading: マジック
+  pos: 名词
+  meaning: 魔法（magic）
+
+- word: 合わされば
+  reading: あわされば
+  pos: 动词
+  meaning: 如果合在一起
+  note: 「合わす」的假定形。
+
+- word: 夜通し
+  reading: よどおし
+  pos: 副词
+  meaning: 整夜、通宵
+
+- word: 怒られよう
+  reading: おこられよう
+  pos: 动词
+  meaning: 一起挨骂吧
+  note: 「怒る」的被动意志形。
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天
+
+- word: 泣きっ面
+  reading: なきっつら
+  pos: 名词
+  meaning: 哭脸、哭丧着脸的样子
+
+- word: 旋律
+  reading: せんりつ
+  pos: 名词
+  meaning: 旋律
+
+- word: エレジー
+  reading: エレジー
+  pos: 名词
+  meaning: 哀歌、挽歌（elegy）
+
+- word: 澄み切った
+  reading: すみきった
+  pos: 动词
+  meaning: 清澈透亮
+  note: 「澄み切る」的过去式。
+
+- word: 指揮
+  reading: しき
+  pos: 名词
+  meaning: 指挥；这里指歌声跟随的节拍
+
+- word: 歌う
+  reading: うたう
+  pos: 动词
+  meaning: 唱
+
+- word: 星
+  reading: ほし
+  pos: 名词
+  meaning: 星星
+
+- word: 悲しさ
+  reading: かなしさ
+  pos: 名词
+  meaning: 悲伤、难过
+
+- word: 半分こ
+  reading: はんぶんこ
+  pos: 名词
+  meaning: 一人一半、对半分
+
+- word: フィロソフィ
+  reading: フィロソフィ
+  pos: 名词
+  meaning: 哲学（philosophy）；歌词中指处世之道
+
+- word: 怖いものなし
+  reading: こわいものなし
+  pos: 惯用句
+  meaning: 什么都不怕、无所畏惧
+
+- word: 涙に暮れても
+  reading: なみだにくれても
+  pos: 惯用句
+  meaning: 就算以泪洗面
+  note: 「涙に暮れる」的て形＋「も」。
+
+- word: 肩持つと
+  reading: かたもつと
+  pos: 惯用句
+  meaning: 分担、偏袒
+  note: 「肩を持つ」＋「と」，这里指分担一半。
+
+- word: 忘れてる
+  reading: わすれてる
+  pos: 动词
+  meaning: 忘记了
+  note: 「忘れる」的持续态。
+
+- word: 息合わせ
+  reading: いきあわせ
+  pos: 惯用句
+  meaning: 调整呼吸、保持步调一致
+  note: 「息を合わせる」的缩略。
+
+- word: 巡り会えた
+  reading: めぐりあえた
+  pos: 动词
+  meaning: 辗转相逢了
+  note: 「巡り会う」的可能形过去式。
+
+- word: 数倍速
+  reading: すうばいそく
+  pos: 名词
+  meaning: 数倍的速度
+
+- word: カウントを打ってる
+  reading: かんとをうってる
+  pos: 惯用句
+  meaning: 打着拍子、数着节拍
+
+- word: エンドロール
+  reading: エンドロール
+  pos: 名词
+  meaning: 片尾字幕、片尾名单（end roll）
+
+- word: 流れても
+  reading: ながれても
+  pos: 动词
+  meaning: 就算播放、流淌
+  note: 「流れる」的て形＋「も」。
+
+- word: 忘れられない
+  reading: わすれられない
+  pos: 动词
+  meaning: 忘不了
+  note: 「忘れる」的可能形否定。
+
+- word: 思い出
+  reading: おもいで
+  pos: 名词
+  meaning: 回忆
+
+- word: お腹いっぱいに
+  reading: おなかいっぱいに
+  pos: 惯用句
+  meaning: 把肚子填得满满的
+
+- word: この先
+  reading: このさき
+  pos: 名词
+  meaning: 今后、从现在起
+
+- word: シワくちゃ
+  reading: しわくちゃ
+  pos: 形容动词
+  meaning: 皱巴巴的；这里指年老后满脸皱纹

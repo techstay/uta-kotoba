@@ -1,0 +1,293 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 回る
+  reading: まわる
+  pos: 动词
+  meaning: 旋转；流转
+
+- word: 世界
+  reading: せかい
+  pos: 名词
+  meaning: 世界
+
+- word: 心なしか
+  reading: こころなしか
+  pos: 副词
+  meaning: 不知为何；总觉得
+
+- word: 尊く
+  reading: とうとく
+  pos: 形容词
+  meaning: 珍贵地；可敬地
+  note: 「尊い」的连用形。
+
+- word: 思えた
+  reading: おもえた
+  pos: 动词
+  meaning: 觉得；感到
+  note: 「思える」的过去式。
+
+- word: 通りがかる
+  reading: とおりがかる
+  pos: 动词
+  meaning: 恰好路过
+
+- word: 公園前
+  reading: こうえんまえ
+  pos: 名词
+  meaning: 公园前面
+
+- word: 季節
+  reading: きせつ
+  pos: 名词
+  meaning: 季节
+
+- word: 訪れ
+  reading: おとずれ
+  pos: 名词
+  meaning: 到来；来访
+
+- word: 後ろ髪
+  reading: うしろがみ
+  pos: 名词
+  meaning: 后脑勺的头发
+  note: 「後ろ髪を引かれる」＝依依不舍。
+
+- word: 駆け足
+  reading: かけあし
+  pos: 名词
+  meaning: 小跑；快步
+
+- word: 生きてゆく
+  reading: いきてゆく
+  pos: 动词
+  meaning: 活下去；生活下去
+
+- word: 木々
+  reading: きぎ
+  pos: 名词
+  meaning: 树木
+
+- word: 乱れ
+  reading: みだれ
+  pos: 动词
+  meaning: 散乱；凌乱
+  note: 「乱れる」的连用形。
+
+- word: 車窓
+  reading: しゃそう
+  pos: 名词
+  meaning: 车窗
+
+- word: 染めた
+  reading: そめた
+  pos: 动词
+  meaning: 染上了
+  note: 「染める」的过去式。
+
+- word: 花びら
+  reading: はなびら
+  pos: 名词
+  meaning: 花瓣
+
+- word: 未来
+  reading: みらい
+  pos: 名词
+  meaning: 未来
+
+- word: 進み続けよう
+  reading: すすみつづけよう
+  pos: 动词
+  meaning: 继续前进吧
+  note: 「進み続ける」的意志形。
+
+- word: 名前
+  reading: なまえ
+  pos: 名词
+  meaning: 名字
+
+- word: 優しさ
+  reading: やさしさ
+  pos: 名词
+  meaning: 温柔
+
+- word: 大切
+  reading: たいせつ
+  pos: 形容动词
+  meaning: 珍贵；重要
+
+- word: 感じさせて
+  reading: かんじさせて
+  pos: 动词
+  meaning: 让我感受到
+  note: 「感じさせる」的て形。
+
+- word: 笑顔
+  reading: えがお
+  pos: 名词
+  meaning: 笑容
+
+- word: つまずいて
+  reading: つまずいて
+  pos: 动词
+  meaning: 绊倒；受挫
+  note: 「つまずく」的て形。
+
+- word: 立ち上がれなくてもいい
+  reading: たちあがれなくてもいい
+  pos: 动词
+  meaning: 站不起来也没关系
+
+- word: 此処
+  reading: ここ
+  pos: 代词
+  meaning: 这里
+  note: 「ここ」的文学性写法。
+
+- word: 嬉しい
+  reading: うれしい
+  pos: 形容词
+  meaning: 开心
+
+- word: 慌ただしく
+  reading: あわただしく
+  pos: 形容词
+  meaning: 匆忙地；慌乱地
+  note: 「慌ただしい」的连用形。
+
+- word: 取り残された
+  reading: とりのこされた
+  pos: 动词
+  meaning: 被落下；被遗弃
+  note: 「取り残される」的过去式。
+
+- word: 動き出した
+  reading: うごきだした
+  pos: 动词
+  meaning: 开始运转了
+
+- word: 閉ざされた
+  reading: とざされた
+  pos: 动词
+  meaning: 被封闭的
+  note: 「閉ざす」的被动过去式。
+
+- word: 心模様
+  reading: こころもよう
+  pos: 名词
+  meaning: 心境；内心的状态
+
+- word: 確かな
+  reading: たしかな
+  pos: 形容动词
+  meaning: 确凿的；可靠的
+  note: 「確かだ」的连体形。
+
+- word: 心ない
+  reading: こころない
+  pos: 形容词
+  meaning: 无情的；没有体谅之心的
+
+- word: 誰かの言葉
+  reading: だれかのやいば
+  pos: 名词
+  meaning: 某人的言语（如刀刃）
+  note: 此处「言葉」特殊读作「やいば（刃）」，强化言语伤人的意象。
+
+- word: 傷つけたり
+  reading: きずつけたり
+  pos: 动词
+  meaning: 伤害别人
+  note: 「傷つける」的たり形。
+
+- word: 過ち
+  reading: あやまち
+  pos: 名词
+  meaning: 过错；过失
+
+- word: 重ねてく
+  reading: かさねてく
+  pos: 动词
+  meaning: 不断重复；层层累积
+  note: 「重ねていく」的口语缩略。
+
+- word: 隣の席
+  reading: となりのせき
+  pos: 名词
+  meaning: 邻座
+
+- word: はにかんだ
+  reading: はにかんだ
+  pos: 动词
+  meaning: 腼腆的；害羞的
+  note: 「はにかむ」的过去式。
+
+- word: 赤子
+  reading: こ
+  pos: 名词
+  meaning: 婴儿
+  note: 歌词限定读作「こ」，通常读作「あかご」。
+
+- word: 思わず
+  reading: おもわず
+  pos: 副词
+  meaning: 不由得；情不自禁
+
+- word: 二度と
+  reading: にどと
+  pos: 副词
+  meaning: 再也不（后接否定）
+
+- word: 注ぐ
+  reading: そそぐ
+  pos: 动词
+  meaning: 倾注；注入
+
+- word: 雁字搦め
+  reading: がんじがらめ
+  pos: 形容动词
+  meaning: 被捆得结结实实；束手束脚
+  note: 引申为被束缚、无法动弹。
+
+- word: 解いてくから
+  reading: ほどいてくから
+  pos: 动词
+  meaning: 我会替你解开
+  note: 「解いていく」的口语缩略。
+
+- word: 解れない
+  reading: ほどれない
+  pos: 动词
+  meaning: 解不开
+  note: 「解ける」的否定形。
+
+- word: 何気ない
+  reading: なにげない
+  pos: 形容词
+  meaning: 不经意的；若无其事的
+
+- word: 花束
+  reading: はなたば
+  pos: 名词
+  meaning: 花束
+
+- word: ギプソフィラで
+  reading: ぎぷそふぃらで
+  pos: 名词
+  meaning: 用满天星（霞草）
+  note: Gypsophila，常作花束的配花。
+
+- word: 咲き誇った
+  reading: さきほこった
+  pos: 动词
+  meaning: 盛开了
+  note: 「咲き誇る」的过去式。
+
+- word: ふわり
+  reading: ふわり
+  pos: 拟态词
+  meaning: 轻轻飘浮的样子
+
+- word: 繋がる
+  reading: つながる
+  pos: 动词
+  meaning: 相连；连接起来

@@ -1,0 +1,282 @@
+# Matching key: `word` must exactly match the surface form in lyrics.txt.
+- word: 残酷
+  reading: ざんこく
+  pos: na-adjective
+  meaning: cruel
+
+- word: 天使
+  reading: てんし
+  pos: noun
+  meaning: angel
+
+- word: テーゼ
+  reading: てーぜ
+  pos: noun
+  meaning: thesis; proposition
+  note: From the German "These"; here it means a guiding principle or manifesto.
+
+- word: 神話
+  reading: しんわ
+  pos: noun
+  meaning: myth; legend
+
+- word: 蒼い
+  reading: あおい
+  pos: i-adjective
+  meaning: blue; azure
+  note: A literary spelling of 「青い」.
+
+- word: 叩いても
+  reading: たたいても
+  pos: verb
+  meaning: even if it knocks
+  note: The te-form of 「叩く」 + 「も」.
+
+- word: 微笑んでる
+  reading: ほほえんでる
+  pos: verb
+  meaning: is smiling
+  note: Colloquial contraction of 「微笑んでいる」.
+
+- word: ふれる
+  reading: ふれる
+  pos: verb
+  meaning: to touch
+
+- word: もとめる
+  reading: もとめる
+  pos: verb
+  meaning: to seek; to pursue
+
+- word: 夢中
+  reading: むちゅう
+  pos: na-adjective
+  meaning: absorbed; engrossed
+
+- word: 運命
+  reading: うんめい
+  pos: noun
+  meaning: fate; destiny
+
+- word: 知らない
+  reading: しらない
+  pos: verb
+  meaning: doesn't know
+  note: The negative form of 「知る」.
+
+- word: いたいけな
+  reading: いたいけな
+  pos: i-adjective
+  meaning: innocent; tender
+
+- word: 瞳
+  reading: ひとみ
+  pos: noun
+  meaning: eyes; pupils
+
+- word: 気付く
+  reading: きづく
+  pos: verb
+  meaning: to notice; to realize
+
+- word: 背中
+  reading: せなか
+  pos: noun
+  meaning: back
+
+- word: 遥か
+  reading: はるか
+  pos: na-adjective
+  meaning: far away; distant
+
+- word: 未来
+  reading: みらい
+  pos: noun
+  meaning: future
+
+- word: めざす
+  reading: めざす
+  pos: verb
+  meaning: to aim for
+  note: Usually written 「目指す」.
+
+- word: 羽根
+  reading: はね
+  pos: noun
+  meaning: wings; feathers
+
+- word: 窓辺
+  reading: まどべ
+  pos: noun
+  meaning: by the window; the window side
+
+- word: 飛び立つ
+  reading: とびたつ
+  pos: verb
+  meaning: to take flight; to fly off
+
+- word: ほとばしる
+  reading: ほとばしる
+  pos: verb
+  meaning: to surge; to gush forth
+
+- word: 熱い
+  reading: あつい
+  pos: i-adjective
+  meaning: hot; passionate
+
+- word: パトス
+  reading: ぱとす
+  pos: noun
+  meaning: passion; pathos
+  note: From the Greek "pathos".
+
+- word: 思い出
+  reading: おもいで
+  pos: noun
+  meaning: memories
+
+- word: 裏切る
+  reading: うらぎる
+  pos: verb
+  meaning: to betray
+
+- word: 宇宙
+  reading: そら
+  pos: noun
+  meaning: the universe; the sky
+  note: Sung as 「そら」 in the lyrics.
+
+- word: 抱いて
+  reading: だいて
+  pos: verb
+  meaning: to embrace
+  note: The te-form of 「抱く」.
+
+- word: 輝く
+  reading: かがやく
+  pos: verb
+  meaning: to shine; to radiate
+
+- word: 眠ってる
+  reading: ねむってる
+  pos: verb
+  meaning: sleeping
+  note: Colloquial contraction of 「眠っている」.
+
+- word: 揺りかご
+  reading: ゆりかご
+  pos: noun
+  meaning: cradle
+
+- word: 使者
+  reading: ししゃ
+  pos: noun
+  meaning: messenger
+
+- word: 呼ばれる
+  reading: よばれる
+  pos: verb
+  meaning: to be called
+  note: The passive form of 「呼ぶ」.
+
+- word: 首筋
+  reading: くびすじ
+  pos: noun
+  meaning: nape of the neck
+
+- word: 月あかり
+  reading: つきあかり
+  pos: noun
+  meaning: moonlight
+
+- word: 映してる
+  reading: うつしてる
+  pos: verb
+  meaning: is reflecting; is illuminating
+  note: Colloquial contraction of the progressive 「映している」.
+
+- word: 世界中
+  reading: せかいじゅう
+  pos: noun
+  meaning: the whole world
+
+- word: 止めて
+  reading: とめて
+  pos: verb
+  meaning: to stop; to bring to a halt
+  note: The te-form of 「止める」.
+
+- word: 閉じこめたい
+  reading: とじこめたい
+  pos: verb
+  meaning: want to lock away; want to shut in
+
+- word: ふたり
+  reading: ふたり
+  pos: noun
+  meaning: the two of us
+
+- word: 逢えた
+  reading: あえた
+  pos: verb
+  meaning: met; was able to meet
+  note: The past tense of 「逢う」, with a literary nuance.
+
+- word: バイブル
+  reading: ばいぶる
+  pos: noun
+  meaning: Bible; by extension, a guidebook
+
+- word: 悲しみ
+  reading: かなしみ
+  pos: noun
+  meaning: sorrow
+
+- word: はじまる
+  reading: はじまる
+  pos: verb
+  meaning: begins
+
+- word: 抱きしめた
+  reading: だきしめた
+  pos: verb
+  meaning: held close; embraced
+  note: The past tense of 「抱きしめる」.
+
+- word: 目覚めた
+  reading: めざめた
+  pos: verb
+  meaning: awakened; woke
+  note: The past tense of 「目覚める」.
+
+- word: 光
+  reading: ひかり
+  pos: noun
+  meaning: light
+
+- word: 放つ
+  reading: はなつ
+  pos: verb
+  meaning: to emit; to radiate
+
+- word: つむぎながら
+  reading: つむぎながら
+  pos: verb
+  meaning: while spinning (love)
+  note: The continuative form of 「つむぐ」 + 「ながら」; here it means spinning love.
+
+- word: 歴史
+  reading: れきし
+  pos: noun
+  meaning: history
+
+- word: 女神
+  reading: めがみ
+  pos: noun
+  meaning: goddess
+
+- word: 生きる
+  reading: いきる
+  pos: verb
+  meaning: to live

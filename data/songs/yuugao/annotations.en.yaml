@@ -1,0 +1,224 @@
+# Matching key: `word` must exactly match the surface form in lyrics.txt.
+- word: 夕顔
+  reading: ゆうがお
+  pos: noun
+  meaning: evening glory (bottle gourd flower)
+  note: A flower that opens in the evening, hence the name 「夕顔」.
+
+- word: 咲き始めた
+  reading: さきはじめた
+  pos: verb
+  meaning: began to bloom
+  note: The past tense of 「咲く」 + 「始める」.
+
+- word: 水を打って
+  reading: みずをうって
+  pos: idiom
+  meaning: to sprinkle water
+  note: The te-form of 「水を打つ」.
+
+- word: 遊びに出かけていた
+  reading: あそびにでかけていた
+  pos: verb
+  meaning: had gone out to play
+  note: The past progressive of 「遊びに出かける」.
+
+- word: 帰ってきた
+  reading: かえってきた
+  pos: verb
+  meaning: came back; returned
+
+- word: さざなみ
+  reading: さざなみ
+  pos: noun
+  meaning: ripples; small waves
+
+- word: 杏色
+  reading: あんずいろ
+  pos: noun
+  meaning: apricot color; pale orange
+
+- word: むらさき
+  reading: むらさき
+  pos: noun
+  meaning: purple; violet
+
+- word: 夕陽
+  reading: ゆうひ
+  pos: noun
+  meaning: setting sun
+
+- word: 染まって
+  reading: そまって
+  pos: verb
+  meaning: to be dyed; to take on color
+  note: The te-form of 「染まる」.
+
+- word: 幻
+  reading: まぼろし
+  pos: noun
+  meaning: illusion; phantom
+
+- word: 吹いて
+  reading: ふいて
+  pos: verb
+  meaning: to blow
+  note: The te-form of 「吹く」.
+
+- word: 渡り
+  reading: わたり
+  pos: verb
+  meaning: to cross over
+  note: The continuative form of 「渡る」.
+
+- word: 旅
+  reading: たび
+  pos: noun
+  meaning: journey
+
+- word: 気がつけば
+  reading: きがつけば
+  pos: idiom
+  meaning: when I come to; before I know it
+
+- word: 時計
+  reading: とけい
+  pos: noun
+  meaning: clock
+
+- word: 針
+  reading: はり
+  pos: noun
+  meaning: hand (of a clock); needle
+
+- word: 戻る
+  reading: もどる
+  pos: verb
+  meaning: to return; to come back
+
+- word: 時刻
+  reading: じこく
+  pos: noun
+  meaning: time; the hour
+  note: Read 「じこく」 here.
+
+- word: お腹
+  reading: おなか
+  pos: noun
+  meaning: stomach; belly
+  note: Read 「おなか」 here.
+
+- word: 虫
+  reading: むし
+  pos: noun
+  meaning: insect; bug
+  note: 「お腹の虫」 refers to the hunger pangs in one's stomach (literally "the bug in one's stomach").
+
+- word: 鳴いてる
+  reading: ないてる
+  pos: verb
+  meaning: (of the stomach) is growling
+  note: Colloquial contraction of the progressive 「鳴いている」.
+
+- word: 作ろう
+  reading: つくろう
+  pos: verb
+  meaning: let's make
+  note: The volitional form of 「作る」.
+
+- word: そら耳
+  reading: そらみみ
+  pos: noun
+  meaning: mishearing; hearing things
+  note: The kana spelling of 「空耳」.
+
+- word: 誰か
+  reading: だれか
+  pos: pronoun
+  meaning: someone
+
+- word: 声
+  reading: こえ
+  pos: noun
+  meaning: voice
+
+- word: 留守録
+  reading: るすろく
+  pos: noun
+  meaning: answering machine message
+  note: Short for 「留守番電話」.
+
+- word: あわてて
+  reading: あわてて
+  pos: verb
+  meaning: in a fluster; hastily
+  note: The te-form of 「慌てる」.
+
+- word: 夕飯
+  reading: ゆうはん
+  pos: noun
+  meaning: dinner; supper
+
+- word: 日々
+  reading: ひび
+  pos: noun
+  meaning: days; everyday life
+
+- word: なつかしく
+  reading: なつかしく
+  pos: i-adjective
+  meaning: nostalgic; fondly remembered
+  note: The continuative form of 「懐かしい」.
+
+- word: ぽっかり
+  reading: ぽっかり
+  pos: adverb
+  meaning: with a hollow gap; suddenly empty
+  note: Describes the look of a gap or an empty space.
+
+- word: 空いた
+  reading: あいた
+  pos: verb
+  meaning: empty; vacant
+  note: The past tense of 「空く」.
+
+- word: 時間
+  reading: じかん
+  pos: noun
+  meaning: time
+
+- word: 一人
+  reading: ひとり
+  pos: noun
+  meaning: alone; one person
+
+- word: 持て余す
+  reading: もてあます
+  pos: verb
+  meaning: to have trouble handling; not know what to do with
+
+- word: ベランダ
+  reading: べらんだ
+  pos: noun
+  meaning: balcony
+
+- word: 一番星
+  reading: いちばんぼし
+  pos: noun
+  meaning: the first star of the evening
+
+- word: 瞬き出した
+  reading: またたきだした
+  pos: verb
+  meaning: began to twinkle
+  note: 「瞬き」 is read 「またたき」 here; the past tense of 「瞬く」 + 「出す」.
+
+- word: 晴れる
+  reading: はれる
+  pos: verb
+  meaning: to clear up
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow

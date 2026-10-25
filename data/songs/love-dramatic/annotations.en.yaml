@@ -1,0 +1,278 @@
+# Matching key: `word` must match the surface form in lyrics.txt exactly.
+- word: 夢
+  reading: ゆめ
+  pos: noun
+  meaning: dream
+
+- word: 聴かせて
+  reading: きかせて
+  pos: verb
+  meaning: let me hear
+  note: Causative form of 聴く.
+
+- word: 焦らされる
+  reading: じらされる
+  pos: verb
+  meaning: to be kept waiting; to be teased
+  note: Passive form of 焦らす.
+
+- word: 切ない
+  reading: せつない
+  pos: i-adjective
+  meaning: aching; bittersweet; painful
+
+- word: 想い
+  reading: おもい
+  pos: noun
+  meaning: feelings; longing
+
+- word: 暴れだす
+  reading: あばれだす
+  pos: verb
+  meaning: to start running wild; to surge out
+
+- word: 視線
+  reading: しせん
+  pos: noun
+  meaning: gaze; line of sight
+
+- word: 負けそう
+  reading: まけそう
+  pos: verb
+  meaning: about to lose; about to give in
+  note: 負ける plus the appearance auxiliary そう.
+
+- word: 危ない
+  reading: あぶない
+  pos: i-adjective
+  meaning: dangerous; risky
+
+- word: 踊らせて
+  reading: おどらせて
+  pos: verb
+  meaning: let me dance
+  note: Causative form of 踊る.
+
+- word: ドラマティック
+  reading: どらまてぃっく
+  pos: na-adjective
+  meaning: dramatic; full of drama
+
+- word: いじわる
+  reading: いじわる
+  pos: noun
+  meaning: malice; being mean on purpose
+
+- word: 予感
+  reading: よかん
+  pos: noun
+  meaning: premonition; hunch
+
+- word: しびれる
+  reading: しびれる
+  pos: verb
+  meaning: to go numb; figuratively, to be electrified or thrilled
+
+- word: 触れた
+  reading: ふれた
+  pos: verb
+  meaning: touched
+  note: Past tense of 触れる.
+
+- word: 指
+  reading: ゆび
+  pos: noun
+  meaning: finger
+
+- word: 先
+  reading: さき
+  pos: noun
+  meaning: tip; the end
+
+- word: 運命
+  reading: うんめい
+  pos: noun
+  meaning: fate; destiny
+
+- word: 待ちわびている
+  reading: まちわびている
+  pos: verb
+  meaning: has been waiting impatiently
+  note: Progressive form of 待ちわびる.
+
+- word: 言わせたい
+  reading: いわせたい
+  pos: verb
+  meaning: want to make someone say it
+  note: Causative form of 言う plus the desire suffix たい.
+
+- word: 心
+  reading: こころ
+  pos: noun
+  meaning: heart; mind
+
+- word: 壁
+  reading: かべ
+  pos: noun
+  meaning: wall; figuratively, a guard around the heart
+
+- word: やぶる
+  reading: やぶる
+  pos: verb
+  meaning: to break down; to tear through
+
+- word: 愛
+  reading: あい
+  pos: noun
+  meaning: love
+
+- word: 告白
+  reading: こくはく
+  pos: noun
+  meaning: confession of love
+
+- word: 惑わせて
+  reading: まどわせて
+  pos: verb
+  meaning: leave me flustered; lead me astray
+  note: Te-form of 惑わせる.
+
+- word: その気
+  reading: そのき
+  pos: noun
+  meaning: that intention; that interest
+  note: その気が無い means not being interested in that way.
+
+- word: そぶり
+  reading: そぶり
+  pos: noun
+  meaning: manner; air; show
+
+- word: お互い
+  reading: おたがい
+  pos: noun
+  meaning: each other; one another
+
+- word: 駆け引き
+  reading: かけひき
+  pos: noun
+  meaning: tactical give-and-take; the push and pull of romance
+
+- word: 演じてる
+  reading: えんじてる
+  pos: verb
+  meaning: are playing; are acting out
+  note: Progressive form of 演じる.
+
+- word: 古い
+  reading: ふるい
+  pos: i-adjective
+  meaning: old; old-fashioned
+
+- word: 映画
+  reading: えいが
+  pos: noun
+  meaning: film; movie
+
+- word: 優しい
+  reading: やさしい
+  pos: i-adjective
+  meaning: gentle; kind
+
+- word: 結末
+  reading: けつまつ
+  pos: noun
+  meaning: ending; conclusion
+
+- word: 嘘
+  reading: うそ
+  pos: noun
+  meaning: lie
+
+- word: 拒まない
+  reading: こばまない
+  pos: verb
+  meaning: not reject
+  note: Negative form of 拒む.
+
+- word: 抱かれて
+  reading: だかれて
+  pos: verb
+  meaning: held; embraced
+  note: Passive form of 抱く.
+
+- word: 壊れて
+  reading: こわれて
+  pos: verb
+  meaning: to break; to fall apart
+  note: Here it means letting the emotions go.
+
+- word: 横顔
+  reading: よこがお
+  pos: noun
+  meaning: profile; the side of the face
+
+- word: 魅せて
+  reading: みせて
+  pos: verb
+  meaning: show off; enchant me with
+  note: Te-form of 魅せる.
+
+- word: くちづけ
+  reading: くちづけ
+  pos: noun
+  meaning: kiss (literary)
+
+- word: 美しさ
+  reading: うつくしさ
+  pos: noun
+  meaning: beauty
+
+- word: 隠された
+  reading: かくされた
+  pos: verb
+  meaning: hidden; concealed
+  note: Passive form of 隠す.
+
+- word: ピュア
+  reading: ぴゅあ
+  pos: na-adjective
+  meaning: pure; innocent
+
+- word: 瞳
+  reading: ひとみ
+  pos: noun
+  meaning: eyes; pupils
+
+- word: 飲み込まれる
+  reading: のみこまれる
+  pos: verb
+  meaning: to be swallowed up; to be drawn in
+
+- word: 秘密
+  reading: ひみつ
+  pos: noun
+  meaning: secret
+
+- word: 明かして
+  reading: あかして
+  pos: verb
+  meaning: reveal; disclose
+  note: Te-form of 明かす.
+
+- word: 愛しい
+  reading: いとしい
+  pos: i-adjective
+  meaning: dear; beloved
+
+- word: 止まらない
+  reading: とまらない
+  pos: verb
+  meaning: won't stop
+  note: Negative form of 止まる.
+
+- word: 奪い去って
+  reading: うばいさって
+  pos: verb
+  meaning: snatch away; take everything
+  note: Te-form of 奪い去る.

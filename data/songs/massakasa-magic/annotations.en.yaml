@@ -1,0 +1,291 @@
+# Matching key: `word` must match the surface form in lyrics.txt exactly.
+- word: まさか
+  reading: まさか
+  pos: adverb
+  meaning: surely not; no way
+  note: Often used to express surprise or disbelief.
+
+- word: 出会い
+  reading: であい
+  pos: noun
+  meaning: encounter; meeting
+
+- word: 僕ら
+  reading: ぼくら
+  pos: pronoun
+  meaning: we; us
+
+- word: 真っ逆さま
+  reading: まっさかさま
+  pos: na-adjective
+  meaning: upside down; headlong; completely inverted
+
+- word: 脆くなった
+  reading: もろくなった
+  pos: i-adjective
+  meaning: became fragile
+  note: Past tense of 脆い.
+
+- word: 一人
+  reading: ひとり
+  pos: noun
+  meaning: one person; alone
+
+- word: 慣れっこ
+  reading: なれっこ
+  pos: noun
+  meaning: used to it; accustomed
+
+- word: 荒野
+  reading: こうや
+  pos: noun
+  meaning: wilderness; wasteland
+
+- word: 追憶
+  reading: ついおく
+  pos: noun
+  meaning: reminiscence; recollection
+
+- word: メモリー
+  reading: メモリー
+  pos: noun
+  meaning: memory
+
+- word: 誰だって
+  reading: だれだって
+  pos: pronoun
+  meaning: anyone; whoever
+
+- word: 背中
+  reading: せなか
+  pos: noun
+  meaning: back
+
+- word: 不安
+  reading: ふあん
+  pos: na-adjective
+  meaning: uneasy; anxious
+
+- word: 君
+  reading: きみ
+  pos: pronoun
+  meaning: you
+
+- word: 声
+  reading: こえ
+  pos: noun
+  meaning: voice
+
+- word: 朝
+  reading: あさ
+  pos: noun
+  meaning: morning
+
+- word: 光
+  reading: ひかり
+  pos: noun
+  meaning: light
+
+- word: 眩しく
+  reading: まぶしく
+  pos: i-adjective
+  meaning: dazzlingly; brightly
+  note: Adverbial form of 眩しい.
+
+- word: 照らすんだ
+  reading: てらすんだ
+  pos: verb
+  meaning: lights up; illuminates
+  note: 照らす plus the emphatic んだ.
+
+- word: 道
+  reading: みち
+  pos: noun
+  meaning: road; path
+
+- word: 手
+  reading: て
+  pos: noun
+  meaning: hand
+
+- word: 繋いで
+  reading: つないで
+  pos: verb
+  meaning: holding; linking
+  note: Te-form of 繋ぐ.
+
+- word: 走り出そう
+  reading: はしりだそう
+  pos: verb
+  meaning: let's start running
+  note: Volitional form of 走り出す.
+
+- word: 楽しさ
+  reading: たのしさ
+  pos: noun
+  meaning: fun; joy
+
+- word: 二倍
+  reading: にばい
+  pos: noun
+  meaning: double; twice
+
+- word: マジック
+  reading: マジック
+  pos: noun
+  meaning: magic
+
+- word: 合わされば
+  reading: あわされば
+  pos: verb
+  meaning: if we put ourselves together
+  note: Conditional form of 合わす.
+
+- word: 夜通し
+  reading: よどおし
+  pos: adverb
+  meaning: all night; overnight
+
+- word: 怒られよう
+  reading: おこられよう
+  pos: verb
+  meaning: let's get scolded together
+  note: Passive volitional form of 怒る.
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow
+
+- word: 泣きっ面
+  reading: なきっつら
+  pos: noun
+  meaning: tear-streaked face; crying face
+
+- word: 旋律
+  reading: せんりつ
+  pos: noun
+  meaning: melody
+
+- word: エレジー
+  reading: エレジー
+  pos: noun
+  meaning: elegy
+
+- word: 澄み切った
+  reading: すみきった
+  pos: verb
+  meaning: perfectly clear; crystal clear
+  note: Past tense of 澄み切る.
+
+- word: 指揮
+  reading: しき
+  pos: noun
+  meaning: conducting; here, the beat the singing follows
+
+- word: 歌う
+  reading: うたう
+  pos: verb
+  meaning: to sing
+
+- word: 星
+  reading: ほし
+  pos: noun
+  meaning: star
+
+- word: 悲しさ
+  reading: かなしさ
+  pos: noun
+  meaning: sadness
+
+- word: 半分こ
+  reading: はんぶんこ
+  pos: noun
+  meaning: splitting in half; half and half
+
+- word: フィロソフィ
+  reading: フィロソフィ
+  pos: noun
+  meaning: philosophy; here, a way of living
+
+- word: 怖いものなし
+  reading: こわいものなし
+  pos: idiom
+  meaning: nothing to fear; fearless
+
+- word: 涙に暮れても
+  reading: なみだにくれても
+  pos: idiom
+  meaning: even if I drown in tears
+  note: Te-form of 涙に暮れる plus も.
+
+- word: 肩持つと
+  reading: かたもつと
+  pos: idiom
+  meaning: to side with; here, to shoulder half the burden
+  note: 肩を持つ plus と; here it means sharing half of it.
+
+- word: 忘れてる
+  reading: わすれてる
+  pos: verb
+  meaning: have forgotten
+  note: Progressive form of 忘れる.
+
+- word: 息合わせ
+  reading: いきあわせ
+  pos: idiom
+  meaning: matching our breathing; keeping in step
+  note: A shortened form of 息を合わせる.
+
+- word: 巡り会えた
+  reading: めぐりあえた
+  pos: verb
+  meaning: was able to meet by chance
+  note: Past potential form of 巡り会う.
+
+- word: 数倍速
+  reading: すうばいそく
+  pos: noun
+  meaning: several times the speed
+
+- word: カウントを打ってる
+  reading: かんとをうってる
+  pos: idiom
+  meaning: keeping the beat; counting time
+
+- word: エンドロール
+  reading: エンドロール
+  pos: noun
+  meaning: end credits; closing roll
+
+- word: 流れても
+  reading: ながれても
+  pos: verb
+  meaning: even if it plays; even as it flows
+  note: Te-form of 流れる plus も.
+
+- word: 忘れられない
+  reading: わすれられない
+  pos: verb
+  meaning: cannot forget
+  note: Negative potential form of 忘れる.
+
+- word: 思い出
+  reading: おもいで
+  pos: noun
+  meaning: memories
+
+- word: お腹いっぱいに
+  reading: おなかいっぱいに
+  pos: idiom
+  meaning: until one's stomach is full; to the brim
+
+- word: この先
+  reading: このさき
+  pos: noun
+  meaning: from now on; the future ahead
+
+- word: シワくちゃ
+  reading: しわくちゃ
+  pos: na-adjective
+  meaning: wrinkled; covered in wrinkles with age

@@ -1,0 +1,296 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 逃げたり
+  reading: にげたり
+  pos: 动词
+  meaning: 逃避之类
+  note: 「逃げる」的过去式＋り，表示列举。
+
+- word: あきらめる
+  reading: あきらめる
+  pos: 动词
+  meaning: 放弃
+  note: 通常写作「諦める」。
+
+- word: コト
+  reading: こと
+  pos: 名词
+  meaning: 事情
+  note: 片假名表记，强调这是「只有你才能做到的事」。
+
+- word: 一瞬
+  reading: いっしゅん
+  pos: 名词
+  meaning: 一瞬间
+
+- word: 歩き続けよう
+  reading: あるきつづけよう
+  pos: 动词
+  meaning: 继续走下去吧
+  note: 「歩く」＋「続ける」的意志形。
+
+- word: 青い
+  reading: あおい
+  pos: 形容词
+  meaning: 蓝色的
+
+- word: 星
+  reading: ほし
+  pos: 名词
+  meaning: 星星
+
+- word: 失くせぬ
+  reading: なくせぬ
+  pos: 动词
+  meaning: 不会失去
+  note: 「失くす」的否定形「失くせない」的文言说法。
+
+- word: つかめ
+  reading: つかめ
+  pos: 动词
+  meaning: 抓住吧
+  note: 「掴む」的命令形。
+
+- word: 描いた
+  reading: えがいた
+  pos: 动词
+  meaning: 描绘的
+  note: 「描く」的过去式。
+
+- word: 夢
+  reading: ゆめ
+  pos: 名词
+  meaning: 梦想
+
+- word: まもれ
+  reading: まもれ
+  pos: 动词
+  meaning: 守护吧
+  note: 「守る」的命令形。
+
+- word: 大事
+  reading: だいじ
+  pos: 形容动词
+  meaning: 重要的、宝贵的
+
+- word: 友
+  reading: とも
+  pos: 名词
+  meaning: 朋友
+
+- word: たくましい
+  reading: たくましい
+  pos: 形容词
+  meaning: 强壮、坚韧
+  note: 通常写作「逞しい」。
+
+- word: 自分
+  reading: じぶん
+  pos: 代词
+  meaning: 自己
+
+- word: パワー
+  reading: ぱわー
+  pos: 名词
+  meaning: 力量
+
+- word: 宿る
+  reading: やどる
+  pos: 动词
+  meaning: 寄宿、潜藏
+
+- word: ハート
+  reading: はーと
+  pos: 名词
+  meaning: 心、内心
+
+- word: 火がついたら
+  reading: ひがついたら
+  pos: 惯用句
+  meaning: 一旦被点燃
+  note: 「火がつく」的过去式＋ら，引申为被激发。
+
+- word: 願い
+  reading: ねがい
+  pos: 名词
+  meaning: 愿望
+
+- word: 嘘
+  reading: うそ
+  pos: 名词
+  meaning: 谎言
+
+- word: 叶う
+  reading: かなう
+  pos: 动词
+  meaning: （愿望）实现
+
+- word: 晴れ
+  reading: はれ
+  pos: 名词
+  meaning: 晴天
+
+- word: 冷たい
+  reading: つめたい
+  pos: 形容词
+  meaning: 冰冷的
+
+- word: 雨
+  reading: あめ
+  pos: 名词
+  meaning: 雨
+
+- word: 降る
+  reading: ふる
+  pos: 动词
+  meaning: 下（雨、雪）
+
+- word: 傘ひろげよう
+  reading: かさひろげよう
+  pos: 惯用句
+  meaning: 撑开伞吧
+  note: 「傘を広げる」的意志形，此处省略「を」。
+
+- word: 生き方
+  reading: いきかた
+  pos: 名词
+  meaning: 生活方式、活法
+
+- word: 地図
+  reading: ちず
+  pos: 名词
+  meaning: 地图
+
+- word: 自由
+  reading: じゆう
+  pos: 名词
+  meaning: 自由
+
+- word: どこへだって
+  reading: どこへだって
+  pos: 副词
+  meaning: 无论到哪里
+
+- word: 行ける
+  reading: いける
+  pos: 动词
+  meaning: 能去
+  note: 「行く」的可能形。
+
+- word: はしれ
+  reading: はしれ
+  pos: 动词
+  meaning: 奔跑吧
+  note: 「走る」的命令形，通常写作「走れ」。
+
+- word: 速く
+  reading: はやく
+  pos: 形容词
+  meaning: 更快
+  note: 「速い」的连用形。
+
+- word: めざせ
+  reading: めざせ
+  pos: 动词
+  meaning: 以……为目标吧
+  note: 「目指す」的命令形。
+
+- word: 遠く
+  reading: とおく
+  pos: 形容词
+  meaning: 更远
+  note: 「遠い」的连用形。
+
+- word: 新しい
+  reading: あたらしい
+  pos: 形容词
+  meaning: 崭新的
+
+- word: 逢える
+  reading: あえる
+  pos: 动词
+  meaning: 能相见
+  note: 「逢う」的可能形，带文学色彩。
+
+- word: 勇気
+  reading: ゆうき
+  pos: 名词
+  meaning: 勇气
+
+- word: 眠る
+  reading: ねむる
+  pos: 动词
+  meaning: 沉睡
+
+- word: 気がついたら
+  reading: きがついたら
+  pos: 惯用句
+  meaning: 一旦察觉到
+  note: 「気がつく」的过去式＋ら。
+
+- word: どしゃ降り
+  reading: どしゃぶり
+  pos: 名词
+  meaning: 倾盆大雨
+
+- word: 止む
+  reading: やむ
+  pos: 动词
+  meaning: （雨、风等）停止
+
+- word: 眩しい
+  reading: まぶしい
+  pos: 形容词
+  meaning: 耀眼、炫目
+
+- word: 明日
+  reading: あす
+  pos: 名词
+  meaning: 明天
+  note: 比「あした」更书面的读法。
+
+- word: 愛する
+  reading: あいする
+  pos: 动词
+  meaning: 爱着的
+
+- word: こわせ
+  reading: こわせ
+  pos: 动词
+  meaning: 击碎吧
+  note: 「壊す」的命令形。
+
+- word: 弱気
+  reading: よわき
+  pos: 名词
+  meaning: 怯懦、胆怯
+
+- word: くずせ
+  reading: くずせ
+  pos: 动词
+  meaning: 摧毁吧
+  note: 「崩す」的命令形。
+
+- word: ぶつかる
+  reading: ぶつかる
+  pos: 动词
+  meaning: 撞上、迎面而来的
+
+- word: 壁
+  reading: かべ
+  pos: 名词
+  meaning: 墙壁；引申为障碍
+
+- word: 熱い
+  reading: あつい
+  pos: 形容词
+  meaning: 炽热的
+
+- word: 鼓動
+  reading: こどう
+  pos: 名词
+  meaning: 心跳、搏动
+
+- word: 武器
+  reading: ぶき
+  pos: 名词
+  meaning: 武器

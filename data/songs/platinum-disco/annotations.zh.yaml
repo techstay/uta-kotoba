@@ -1,0 +1,295 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: 見渡せば
+  reading: みわたせば
+  pos: 动词
+  meaning: 放眼望去
+  note: 「見渡す」的假定形。
+
+- word: 一面
+  reading: いちめん
+  pos: 名词
+  meaning: 整片；一望无际的一面
+
+- word: 白金
+  reading: はっきん
+  pos: 名词
+  meaning: 铂金；白金
+  note: 日常也常读作「プラチナ」。
+
+- word: 世界
+  reading: せかい
+  pos: 名词
+  meaning: 世界
+
+- word: 一歩
+  reading: いっぽ
+  pos: 名词
+  meaning: 一步
+
+- word: 踏み出して
+  reading: ふみだして
+  pos: 动词
+  meaning: 迈出
+  note: 「踏み出す」的て形。
+
+- word: いつまでも
+  reading: いつまでも
+  pos: 副词
+  meaning: 永远；无论到何时
+
+- word: 止まらない
+  reading: とまらない
+  pos: 动词
+  meaning: 停不下来
+  note: 「止まる」的否定形。
+
+- word: 胸
+  reading: むね
+  pos: 名词
+  meaning: 胸口；内心
+
+- word: ときめき
+  reading: ときめき
+  pos: 名词
+  meaning: 心动；心跳加速
+
+- word: 一緒に
+  reading: いっしょに
+  pos: 副词
+  meaning: 一起
+
+- word: 踊ろう
+  reading: おどろう
+  pos: 动词
+  meaning: 跳舞吧
+  note: 「踊る」的意志形。
+
+- word: 背中
+  reading: せなか
+  pos: 名词
+  meaning: 后背；背影
+
+- word: あの日
+  reading: あのひ
+  pos: 名词
+  meaning: 那一天
+
+- word: みつけた
+  reading: みつけた
+  pos: 动词
+  meaning: 找到了
+  note: 「見つける」的过去式。
+
+- word: 月
+  reading: つき
+  pos: 名词
+  meaning: 月亮
+
+- word: ミラーボール
+  reading: みらーぼーる
+  pos: 名词
+  meaning: 迪斯科球；镜面球
+
+- word: 夜空
+  reading: よぞら
+  pos: 名词
+  meaning: 夜空
+
+- word: キラリ
+  reading: きらり
+  pos: 副词
+  meaning: 一闪；亮闪闪地
+
+- word: チラり
+  reading: ちらり
+  pos: 副词
+  meaning: 一晃；若隐若现地
+  note: 官方歌词表记作「チラり」，此处读作「ちらり」。
+
+- word: 輝いてる
+  reading: かがやいてる
+  pos: 动词
+  meaning: 闪耀着
+  note: 「輝く」的进行体。
+
+- word: かわってく
+  reading: かわってく
+  pos: 动词
+  meaning: 不断变化
+  note: 「変わっていく」的口语缩略，与下一句「かわらない」相对。
+
+- word: かわらない
+  reading: かわらない
+  pos: 动词
+  meaning: 不会改变
+  note: 「変わる」的否定形。
+
+- word: 飽きっぽい
+  reading: あきっぽい
+  pos: 形容词
+  meaning: 容易厌倦的
+
+- word: 私
+  reading: わたし
+  pos: 代词
+  meaning: 我
+
+- word: はじめて
+  reading: はじめて
+  pos: 副词
+  meaning: 第一次
+
+- word: 知った
+  reading: しった
+  pos: 动词
+  meaning: 知道了；懂得了
+  note: 「知る」的过去式。
+
+- word: 永遠
+  reading: えいえん
+  pos: 名词
+  meaning: 永远
+
+- word: 誓う
+  reading: ちかう
+  pos: 动词
+  meaning: 发誓；起誓
+
+- word: プラチナ
+  reading: ぷらちな
+  pos: 名词
+  meaning: 白金；铂金
+  note: 对应汉字「白金」，此处用作副歌的呼号。
+
+- word: うれしい
+  reading: うれしい
+  pos: 形容词
+  meaning: 高兴的
+
+- word: せつなく
+  reading: せつなく
+  pos: 形容词
+  meaning: 心酸地；怅然地
+  note: 「せつない」的连用形。
+
+- word: なみだ
+  reading: なみだ
+  pos: 名词
+  meaning: 眼泪
+
+- word: ディスコティック
+  reading: でぃすこてぃっく
+  pos: 名词
+  meaning: 迪斯科式的；迪斯科风格
+  note: 此处像舞曲里的节奏口号。
+
+- word: 振り向けば
+  reading: ふりむけば
+  pos: 动词
+  meaning: 回过头的话
+  note: 「振り向く」的假定形。
+
+- word: 並んでる
+  reading: ならんでる
+  pos: 动词
+  meaning: 排列着
+  note: 「並んでいる」的口语缩略。
+
+- word: 足跡
+  reading: あしあと
+  pos: 名词
+  meaning: 足迹
+
+- word: じゃれあって
+  reading: じゃれあって
+  pos: 动词
+  meaning: 互相嬉闹着
+  note: 「じゃれあう」的て形。
+
+- word: ねむたくて
+  reading: ねむたくて
+  pos: 形容词
+  meaning: 困得
+  note: 「ねむたい」的て形。
+
+- word: 朝まで
+  reading: あさまで
+  pos: 副词
+  meaning: 直到天亮
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天
+
+- word: 来なくても
+  reading: こなくても
+  pos: 动词
+  meaning: 即使不来
+  note: 「来る」的否定て形。
+
+- word: 続きます
+  reading: つづきます
+  pos: 动词
+  meaning: 继续下去
+
+- word: ヒラリ
+  reading: ひらり
+  pos: 副词
+  meaning: 轻飘飘地
+
+- word: フラリ
+  reading: ふらり
+  pos: 副词
+  meaning: 飘忽忽地；漫无目的地
+
+- word: 夢
+  reading: ゆめ
+  pos: 名词
+  meaning: 梦
+
+- word: ささやか
+  reading: ささやか
+  pos: 形容动词
+  meaning: 微小；朴素；不起眼
+
+- word: かけがえのない
+  reading: かけがえのない
+  pos: 惯用句
+  meaning: 无可替代的
+
+- word: 歴史
+  reading: れきし
+  pos: 名词
+  meaning: 历史
+
+- word: 重ねて
+  reading: かさねて
+  pos: 动词
+  meaning: 层层累积
+  note: 「重ねる」的て形；「歴史を重ねる」＝积累历史。
+
+- word: ちいさな
+  reading: ちいさな
+  pos: 形容词
+  meaning: 小小的
+
+- word: うそ
+  reading: うそ
+  pos: 名词
+  meaning: 谎言
+
+- word: ほんとうに
+  reading: ほんとうに
+  pos: 副词
+  meaning: 真的；真正地
+
+- word: となり
+  reading: となり
+  pos: 名词
+  meaning: 旁边；身旁
+
+- word: 偽り
+  reading: いつわり
+  pos: 名词
+  meaning: 虚假；伪装

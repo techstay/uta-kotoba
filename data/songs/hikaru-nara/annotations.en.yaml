@@ -1,0 +1,285 @@
+# Matching key: `word` must match the surface form in lyrics.txt exactly.
+- word: 雨上がり
+  reading: あめあがり
+  pos: noun
+  meaning: after the rain; when the rain has stopped
+
+- word: 凛と
+  reading: りんと
+  pos: adverb
+  meaning: with dignity; proudly and crisply
+  note: 凛 describes something dignified, upright, and coolly composed.
+
+- word: 咲いた
+  reading: さいた
+  pos: verb
+  meaning: bloomed
+  note: Past tense of 咲く (to bloom).
+
+- word: 色づき
+  reading: いろづき
+  pos: verb
+  meaning: taking on color; becoming tinted
+  note: The stem form (ren'yōkei) of 色づく.
+
+- word: 溢れ出す
+  reading: あふれだす
+  pos: verb
+  meaning: to overflow; to spill out
+
+- word: 茜色
+  reading: あかねいろ
+  pos: noun
+  meaning: madder red; deep crimson
+
+- word: 仰ぐ
+  reading: あおぐ
+  pos: verb
+  meaning: to look up at
+
+- word: 恋に落ちた
+  reading: こいにおちた
+  pos: idiom
+  meaning: fell in love
+
+- word: 瞬間
+  reading: しゅんかん
+  pos: noun
+  meaning: moment; instant
+
+- word: 刻む
+  reading: きざむ
+  pos: verb
+  meaning: to carve; to engrave
+
+- word: 君
+  reading: きみ
+  pos: pronoun
+  meaning: you
+
+- word: 暗闇
+  reading: くらやみ
+  pos: noun
+  meaning: darkness; the dark
+
+- word: 光る
+  reading: ひかる
+  pos: verb
+  meaning: to shine; to glow
+
+- word: 星空
+  reading: ほしぞら
+  pos: noun
+  meaning: starry sky
+
+- word: 悲しみ
+  reading: かなしみ
+  pos: noun
+  meaning: sadness; sorrow
+
+- word: 笑顔
+  reading: えがお
+  pos: noun
+  meaning: smile
+
+- word: 隠さないで
+  reading: かくさないで
+  pos: verb
+  meaning: don't hide it
+  note: Negative te-form of 隠す.
+
+- word: 煌めく
+  reading: きらめく
+  pos: verb
+  meaning: to sparkle; to glitter
+  note: A variant spelling of 煌く, read as きらめく.
+
+- word: 照らす
+  reading: てらす
+  pos: verb
+  meaning: to illuminate; to shine on
+
+- word: 眠り
+  reading: ねむり
+  pos: noun
+  meaning: sleep
+
+- word: 忘れて
+  reading: わすれて
+  pos: verb
+  meaning: forgetting
+  note: Te-form of 忘れる.
+
+- word: 迎えた
+  reading: むかえた
+  pos: verb
+  meaning: greeted; welcomed
+  note: Past tense of 迎える.
+
+- word: 朝日
+  reading: あさひ
+  pos: noun
+  meaning: morning sun
+
+- word: 突き刺さる
+  reading: つきささる
+  pos: verb
+  meaning: to pierce; to stab into
+
+- word: 低気圧
+  reading: ていきあつ
+  pos: noun
+  meaning: low atmospheric pressure
+
+- word: 頭痛
+  reading: ずつう
+  pos: noun
+  meaning: headache
+
+- word: 会えば
+  reading: あえば
+  pos: verb
+  meaning: if I see; if we meet
+  note: Conditional form of 会う.
+
+- word: 静寂
+  reading: せいじゃく
+  pos: noun
+  meaning: silence; stillness
+
+- word: 紅茶
+  reading: こうちゃ
+  pos: noun
+  meaning: black tea
+
+- word: 溶けた
+  reading: とけた
+  pos: verb
+  meaning: dissolved; melted
+  note: Past tense of 溶ける.
+
+- word: 全身
+  reading: ぜんしん
+  pos: noun
+  meaning: whole body
+
+- word: 巡る
+  reading: めぐる
+  pos: verb
+  meaning: to circulate; to flow through
+
+- word: 涙
+  reading: なみだ
+  pos: noun
+  meaning: tears
+
+- word: 流星
+  reading: りゅうせい
+  pos: noun
+  meaning: shooting star; meteor
+
+- word: 傷付いた
+  reading: きずついた
+  pos: verb
+  meaning: was hurt; wounded
+  note: Past tense of 傷付く.
+
+- word: 離さないで
+  reading: はなさないで
+  pos: verb
+  meaning: don't let go
+  note: Negative te-form of 離す.
+
+- word: 願い
+  reading: ねがい
+  pos: noun
+  meaning: wish; prayer
+
+- word: 込めた
+  reading: こめた
+  pos: verb
+  meaning: put into; filled with
+  note: Past tense of 込める.
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow
+
+- word: 導いて
+  reading: みちびいて
+  pos: verb
+  meaning: guiding
+  note: Te-form of 導く.
+
+- word: 光
+  reading: ひかり
+  pos: noun
+  meaning: light
+
+- word: 僕
+  reading: ぼく
+  pos: pronoun
+  meaning: I; me
+
+- word: 走り出した
+  reading: はしりだした
+  pos: verb
+  meaning: started running
+
+- word: 知らぬ間に
+  reading: しらぬまに
+  pos: idiom
+  meaning: before one knows it; without realizing
+
+- word: 終わる
+  reading: おわる
+  pos: verb
+  meaning: to end
+
+- word: 答え
+  reading: こたえ
+  pos: noun
+  meaning: answer
+
+- word: 偶然
+  reading: ぐうぜん
+  pos: noun
+  meaning: coincidence; chance
+
+- word: 必然
+  reading: ひつぜん
+  pos: noun
+  meaning: inevitability; necessity
+
+- word: 選んだ
+  reading: えらんだ
+  pos: verb
+  meaning: chose
+  note: Past tense of 選ぶ.
+
+- word: 運命
+  reading: うんめい
+  pos: noun
+  meaning: fate; destiny
+
+- word: 握りしめた
+  reading: にぎりしめた
+  pos: verb
+  meaning: gripped tightly; clenched
+
+- word: 希望
+  reading: きぼう
+  pos: noun
+  meaning: hope
+
+- word: 不安
+  reading: ふあん
+  pos: noun
+  meaning: anxiety; unease
+
+- word: 2人
+  reading: ふたり
+  pos: noun
+  meaning: the two of us
+  note: Read here as ふたり, meaning "the two of us".

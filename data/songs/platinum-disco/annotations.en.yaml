@@ -1,0 +1,295 @@
+# Matching key: `word` must exactly match the surface form in lyrics.txt.
+- word: 見渡せば
+  reading: みわたせば
+  pos: verb
+  meaning: when I look out over it all
+  note: The provisional form of 「見渡す」.
+
+- word: 一面
+  reading: いちめん
+  pos: noun
+  meaning: one whole expanse; the entire view
+
+- word: 白金
+  reading: はっきん
+  pos: noun
+  meaning: platinum
+  note: Also commonly read 「プラチナ」 in everyday speech.
+
+- word: 世界
+  reading: せかい
+  pos: noun
+  meaning: world
+
+- word: 一歩
+  reading: いっぽ
+  pos: noun
+  meaning: one step
+
+- word: 踏み出して
+  reading: ふみだして
+  pos: verb
+  meaning: to step forward
+  note: The te-form of 「踏み出す」.
+
+- word: いつまでも
+  reading: いつまでも
+  pos: adverb
+  meaning: forever; no matter how long
+
+- word: 止まらない
+  reading: とまらない
+  pos: verb
+  meaning: won't stop
+  note: The negative form of 「止まる」.
+
+- word: 胸
+  reading: むね
+  pos: noun
+  meaning: chest; heart
+
+- word: ときめき
+  reading: ときめき
+  pos: noun
+  meaning: heart flutter; quickening heartbeat
+
+- word: 一緒に
+  reading: いっしょに
+  pos: adverb
+  meaning: together
+
+- word: 踊ろう
+  reading: おどろう
+  pos: verb
+  meaning: let's dance
+  note: The volitional form of 「踊る」.
+
+- word: 背中
+  reading: せなか
+  pos: noun
+  meaning: back
+
+- word: あの日
+  reading: あのひ
+  pos: noun
+  meaning: that day
+
+- word: みつけた
+  reading: みつけた
+  pos: verb
+  meaning: found
+  note: The past tense of 「見つける」.
+
+- word: 月
+  reading: つき
+  pos: noun
+  meaning: moon
+
+- word: ミラーボール
+  reading: みらーぼーる
+  pos: noun
+  meaning: mirror ball; disco ball
+
+- word: 夜空
+  reading: よぞら
+  pos: noun
+  meaning: night sky
+
+- word: キラリ
+  reading: きらり
+  pos: adverb
+  meaning: with a glint; sparklingly
+
+- word: チラり
+  reading: ちらり
+  pos: adverb
+  meaning: flickeringly; in glimpses
+  note: Written 「チラり」 in the official lyrics and read 「ちらり」.
+
+- word: 輝いてる
+  reading: かがやいてる
+  pos: verb
+  meaning: is shining
+  note: The progressive form of 「輝く」.
+
+- word: かわってく
+  reading: かわってく
+  pos: verb
+  meaning: keeps changing
+  note: Colloquial contraction of 「変わっていく」, set against 「かわらない」 in the next line.
+
+- word: かわらない
+  reading: かわらない
+  pos: verb
+  meaning: doesn't change
+  note: The negative form of 「変わる」.
+
+- word: 飽きっぽい
+  reading: あきっぽい
+  pos: i-adjective
+  meaning: easily bored; quick to tire of things
+
+- word: 私
+  reading: わたし
+  pos: pronoun
+  meaning: I; me
+
+- word: はじめて
+  reading: はじめて
+  pos: adverb
+  meaning: for the first time
+
+- word: 知った
+  reading: しった
+  pos: verb
+  meaning: learned; came to know
+  note: The past tense of 「知る」.
+
+- word: 永遠
+  reading: えいえん
+  pos: noun
+  meaning: eternity
+
+- word: 誓う
+  reading: ちかう
+  pos: verb
+  meaning: to swear; to vow
+
+- word: プラチナ
+  reading: ぷらちな
+  pos: noun
+  meaning: platinum
+  note: Corresponds to the kanji 「白金」; used here as a shout-out in the chorus.
+
+- word: うれしい
+  reading: うれしい
+  pos: i-adjective
+  meaning: happy; glad
+
+- word: せつなく
+  reading: せつなく
+  pos: i-adjective
+  meaning: achingly; with a pang
+  note: The continuative form of 「せつない」.
+
+- word: なみだ
+  reading: なみだ
+  pos: noun
+  meaning: tears
+
+- word: ディスコティック
+  reading: でぃすこてぃっく
+  pos: noun
+  meaning: discotic; disco-style
+  note: Here it works like a rhythmic chant in a dance track.
+
+- word: 振り向けば
+  reading: ふりむけば
+  pos: verb
+  meaning: if I turn around
+  note: The provisional form of 「振り向く」.
+
+- word: 並んでる
+  reading: ならんでる
+  pos: verb
+  meaning: are lined up
+  note: Colloquial contraction of 「並んでいる」.
+
+- word: 足跡
+  reading: あしあと
+  pos: noun
+  meaning: footprints
+
+- word: じゃれあって
+  reading: じゃれあって
+  pos: verb
+  meaning: frolicking together
+  note: The te-form of 「じゃれあう」.
+
+- word: ねむたくて
+  reading: ねむたくて
+  pos: i-adjective
+  meaning: sleepy
+  note: The te-form of 「ねむたい」.
+
+- word: 朝まで
+  reading: あさまで
+  pos: adverb
+  meaning: until morning
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow
+
+- word: 来なくても
+  reading: こなくても
+  pos: verb
+  meaning: even if it doesn't come
+  note: The negative te-form of 「来る」.
+
+- word: 続きます
+  reading: つづきます
+  pos: verb
+  meaning: will continue
+
+- word: ヒラリ
+  reading: ひらり
+  pos: adverb
+  meaning: lightly; with a flutter
+
+- word: フラリ
+  reading: ふらり
+  pos: adverb
+  meaning: driftingly; aimlessly
+
+- word: 夢
+  reading: ゆめ
+  pos: noun
+  meaning: dream
+
+- word: ささやか
+  reading: ささやか
+  pos: na-adjective
+  meaning: modest; humble; small
+
+- word: かけがえのない
+  reading: かけがえのない
+  pos: idiom
+  meaning: irreplaceable
+
+- word: 歴史
+  reading: れきし
+  pos: noun
+  meaning: history
+
+- word: 重ねて
+  reading: かさねて
+  pos: verb
+  meaning: to pile up; to accumulate
+  note: The te-form of 「重ねる」; 「歴史を重ねる」 means to build up a history.
+
+- word: ちいさな
+  reading: ちいさな
+  pos: i-adjective
+  meaning: small; little
+
+- word: うそ
+  reading: うそ
+  pos: noun
+  meaning: lie
+
+- word: ほんとうに
+  reading: ほんとうに
+  pos: adverb
+  meaning: truly; really
+
+- word: となり
+  reading: となり
+  pos: noun
+  meaning: beside; next to
+
+- word: 偽り
+  reading: いつわり
+  pos: noun
+  meaning: falsehood; deception

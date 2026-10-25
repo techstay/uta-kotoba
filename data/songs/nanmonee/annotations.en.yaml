@@ -1,0 +1,199 @@
+# Matching key: `word` must match the surface form in lyrics.txt exactly.
+- word: なんもねえ
+  reading: なんもねえ
+  pos: idiom
+  meaning: nothing at all
+  note: Casual contraction of 何もない.
+
+- word: 俺ら
+  reading: おれら
+  pos: pronoun
+  meaning: we; us (masculine, casual)
+
+- word: 終わってる
+  reading: おわってる
+  pos: verb
+  meaning: is finished; in slang, is beyond saving
+  note: Progressive form of 終わる.
+
+- word: 笑ったら
+  reading: わらったら
+  pos: verb
+  meaning: if you laugh
+  note: Conditional form of 笑う.
+
+- word: 殺すぞ
+  reading: ころすぞ
+  pos: verb
+  meaning: I'll kill you
+  note: 殺す plus the emphatic particle ぞ, rough in tone.
+
+- word: オナってる
+  reading: おなってる
+  pos: verb
+  meaning: jerking off (vulgar)
+  note: Short for オナニーしている.
+
+- word: 泣きながら
+  reading: なきながら
+  pos: verb
+  meaning: while crying
+  note: Masu-stem of 泣く plus ながら.
+
+- word: ゼロワン
+  reading: ぜろわん
+  pos: noun
+  meaning: zero one; here, a shout-along chant
+
+- word: あつまれ
+  reading: あつまれ
+  pos: verb
+  meaning: gather round
+  note: Imperative form of 集まる.
+
+- word: ポンコツ
+  reading: ぽんこつ
+  pos: noun
+  meaning: scrap heap; a useless wreck; also a clumsy, good-for-nothing person
+
+- word: 森
+  reading: もり
+  pos: noun
+  meaning: forest
+
+- word: 力
+  reading: ちから
+  pos: noun
+  meaning: strength; power
+
+- word: あつめて
+  reading: あつめて
+  pos: verb
+  meaning: gather up
+  note: Te-form of 集める.
+
+- word: 迷惑かけるぜ
+  reading: めいわくかけるぜ
+  pos: idiom
+  meaning: gonna cause some trouble
+  note: Shortened 迷惑をかける plus ぜ.
+
+- word: あらかじめ
+  reading: あらかじめ
+  pos: adverb
+  meaning: beforehand; in advance
+
+- word: 言う
+  reading: いう
+  pos: verb
+  meaning: to say
+
+- word: すめん
+  reading: すめん
+  pos: interjection
+  meaning: sorry
+  note: Casual shortening of すみません.
+
+- word: テヘペロ
+  reading: てへぺろ
+  pos: noun
+  meaning: a cutesy tongue-out apology
+  note: Made from てへ plus ぺろ.
+
+- word: 舐めた
+  reading: なめた
+  pos: verb
+  meaning: licked; also, looked down on
+  note: Past tense of 舐める.
+
+- word: 指
+  reading: ゆび
+  pos: noun
+  meaning: finger
+
+- word: 臭え
+  reading: くせえ
+  pos: i-adjective
+  meaning: stinks
+  note: Rough masculine form of 臭い.
+
+- word: ありがとう
+  reading: ありがとう
+  pos: interjection
+  meaning: thank you
+
+- word: 孤独
+  reading: こどく
+  pos: noun
+  meaning: loneliness; solitude
+
+- word: 脇役
+  reading: わきやく
+  pos: noun
+  meaning: supporting role; minor character
+
+- word: 胸んなか
+  reading: むねんなか
+  pos: noun
+  meaning: inside one's heart; in one's chest
+  note: Contracted colloquial form of 胸の中.
+
+- word: あなた
+  reading: あなた
+  pos: pronoun
+  meaning: you
+
+- word: 夢みる
+  reading: ゆめみる
+  pos: verb
+  meaning: to dream
+
+- word: 今日
+  reading: きょう
+  pos: noun
+  meaning: today
+
+- word: はんぱねえ
+  reading: はんぱねえ
+  pos: i-adjective
+  meaning: no joke; out of the ordinary
+  note: Shortened form of 半端ない.
+
+- word: 叶う
+  reading: かなう
+  pos: verb
+  meaning: "to come true, said of a wish"
+
+- word: がんばれ
+  reading: がんばれ
+  pos: verb
+  meaning: hang in there; do your best
+  note: Imperative form of がんばる.
+
+- word: 終わったら
+  reading: おわったら
+  pos: verb
+  meaning: when it's over
+  note: Conditional form of 終わる.
+
+- word: 灰になる
+  reading: はいになる
+  pos: idiom
+  meaning: to turn to ashes
+
+- word: 欲しい
+  reading: ほしい
+  pos: i-adjective
+  meaning: wanted; desired
+
+- word: いらねえ
+  reading: いらねえ
+  pos: verb
+  meaning: don't need
+  note: Rough colloquial form of 要らない.
+
+- word: それしか
+  reading: それしか
+  pos: idiom
+  meaning: nothing but that
+  note: それ plus しか, which pairs with a negative.

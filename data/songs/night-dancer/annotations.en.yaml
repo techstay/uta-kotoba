@@ -1,0 +1,283 @@
+# Matching key: `word` must exactly match the surface form in lyrics.txt.
+- word: どうでもいいような
+  reading: どうでもいいような
+  pos: idiom
+  meaning: like it doesn't really matter
+  note: The attributive form of 「どうでもいい」.
+
+- word: 夜
+  reading: よる
+  pos: noun
+  meaning: night
+
+- word: 響めき
+  reading: どよめき
+  pos: noun
+  meaning: roar; commotion
+  note: Usually written 「響き」 and read 「ひびき」; here it is sung as 「どよめき」 to fit the melody.
+
+- word: 煌めき
+  reading: きらめき
+  pos: noun
+  meaning: sparkle; glitter
+
+- word: 踊ろう
+  reading: おどろう
+  pos: verb
+  meaning: let's dance
+  note: The volitional form of 「踊る」.
+
+- word: 刻もう
+  reading: きざもう
+  pos: verb
+  meaning: let's engrave it
+  note: The volitional form of 「刻む」.
+
+- word: 止まった
+  reading: とまった
+  pos: verb
+  meaning: stopped
+  note: The past tense of 「止まる」.
+
+- word: 刻む
+  reading: きざむ
+  pos: verb
+  meaning: to engrave; (of a clock) to tick
+  note: 「刻む針」 refers to the ticking hand of a clock.
+
+- word: 針
+  reading: はり
+  pos: noun
+  meaning: hand (of a clock); needle
+
+- word: 入り浸った
+  reading: いりびたった
+  pos: verb
+  meaning: lingered; stayed in all the time
+  note: The past tense of 「入り浸る」.
+
+- word: 散らかる
+  reading: ちらかる
+  pos: verb
+  meaning: to be cluttered; to be in disorder
+
+- word: 部屋
+  reading: へや
+  pos: noun
+  meaning: room
+
+- word: 変わらないね
+  reading: かわらないね
+  pos: verb
+  meaning: nothing's changed, has it
+
+- word: 思い出して
+  reading: おもいだして
+  pos: verb
+  meaning: recalling; whenever I remember
+  note: The te-form of 「思い出す」.
+
+- word: 二人
+  reading: ふたり
+  pos: noun
+  meaning: the two of us
+
+- word: 歳を重ねてた
+  reading: としをかさねてた
+  pos: idiom
+  meaning: were growing older together
+  note: Colloquial contraction of 「歳を重ねていた」.
+
+- word: 落とす
+  reading: おとす
+  pos: verb
+  meaning: to drop; to let down
+
+- word: 流した
+  reading: ながした
+  pos: verb
+  meaning: played; let flow
+  note: The past tense of 「流す」; here it means playing a record.
+
+- word: 聞き飽きるほど
+  reading: ききあきるほど
+  pos: idiom
+  meaning: enough to tire of hearing it
+
+- word: いられた
+  reading: いられた
+  pos: verb
+  meaning: could stay
+  note: The past potential form of 「いる」.
+
+- word: 無駄話
+  reading: むだばなし
+  pos: noun
+  meaning: idle talk; small talk
+
+- word: はぐらかして
+  reading: はぐらかして
+  pos: verb
+  meaning: to dodge; to evade
+  note: The te-form of 「はぐらかす」.
+
+- word: 触れた
+  reading: ふれた
+  pos: verb
+  meaning: touched
+  note: The past tense of 「触れる」.
+
+- word: ためらうように
+  reading: ためらうように
+  pos: idiom
+  meaning: as if hesitating
+
+- word: 足踏みして
+  reading: あしぶみして
+  pos: verb
+  meaning: to march in place; to stall
+  note: The te-form of 「足踏みする」.
+
+- word: ズレた
+  reading: ずれた
+  pos: verb
+  meaning: out of sync; shifted
+  note: The past tense of 「ズレる」.
+
+- word: 余所に
+  reading: よそに
+  pos: adverb
+  meaning: aside; ignoring
+
+- word: 揃い始めてた
+  reading: そろいはじめてた
+  pos: verb
+  meaning: had begun to fall into sync
+  note: Colloquial contraction of 「揃い始めていた」.
+
+- word: 息
+  reading: いき
+  pos: noun
+  meaning: breath
+
+- word: 透き通った
+  reading: すきとおった
+  pos: verb
+  meaning: translucent; clear
+  note: The past tense of 「透き通る」.
+
+- word: 肌
+  reading: はだ
+  pos: noun
+  meaning: skin
+
+- word: 無邪気
+  reading: むじゃき
+  pos: na-adjective
+  meaning: innocent; carefree
+
+- word: 見つめる
+  reading: みつめる
+  pos: verb
+  meaning: to gaze at
+
+- word: 溢れる
+  reading: あふれる
+  pos: verb
+  meaning: to overflow
+
+- word: メモリー
+  reading: めもりー
+  pos: noun
+  meaning: memory; memories
+
+- word: 浮つく
+  reading: うわつく
+  pos: verb
+  meaning: to be restless; to be frivolous
+
+- word: コーヒー
+  reading: こーひー
+  pos: noun
+  meaning: coffee
+
+- word: 掠れた
+  reading: かすれた
+  pos: verb
+  meaning: hoarse
+  note: The past tense of 「掠れる」.
+
+- word: メロディー
+  reading: めろでぃー
+  pos: noun
+  meaning: melody
+
+- word: 混ざりあってよう
+  reading: まざりあってよう
+  pos: verb
+  meaning: let us blend together
+  note: Colloquial version of 「混ざり合っていよう」.
+
+- word: もう一度
+  reading: もういちど
+  pos: adverb
+  meaning: once more
+
+- word: ときめき
+  reading: ときめき
+  pos: noun
+  meaning: heart flutter; excitement
+
+- word: 色めき
+  reading: いろめき
+  pos: noun
+  meaning: stir of color; excited commotion
+
+- word: 夜は長い
+  reading: よるはながい
+  pos: idiom
+  meaning: the night is long
+
+- word: おぼつかない
+  reading: おぼつかない
+  pos: i-adjective
+  meaning: unsteady; uncertain
+
+- word: ミュージック
+  reading: みゅーじっく
+  pos: noun
+  meaning: music
+
+- word: 君といたい
+  reading: きみといたい
+  pos: idiom
+  meaning: I want to be with you
+
+- word: 溺れてたい
+  reading: おぼれてたい
+  pos: verb
+  meaning: I want to drown in it
+  note: Colloquial contraction of 「溺れていたい」.
+
+- word: 明日
+  reading: あした
+  pos: noun
+  meaning: tomorrow
+
+- word: 愛して
+  reading: あいして
+  pos: verb
+  meaning: love me
+  note: The te-form of 「愛する」, used here as a request.
+
+- word: ふらつき
+  reading: ふらつき
+  pos: verb
+  meaning: staggering; swaying
+  note: The continuative form of 「ふらつく」.
+
+- word: よろめき
+  reading: よろめき
+  pos: verb
+  meaning: tottering; stumbling
+  note: The continuative form of 「よろめく」.

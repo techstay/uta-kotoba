@@ -1,0 +1,237 @@
+# 匹配键：`word` 必须与 lyrics.txt 中的表面形完全一致。
+- word: ゴキゲン
+  reading: ごきげん
+  pos: 名词
+  meaning: 心情好
+  note: 「ご機嫌」的片假名写法。
+
+- word: 蝶
+  reading: ちょう
+  pos: 名词
+  meaning: 蝴蝶
+
+- word: きらめく
+  reading: きらめく
+  pos: 动词
+  meaning: 闪耀、闪闪发光
+
+- word: 乗って
+  reading: のって
+  pos: 动词
+  meaning: 乘着
+  note: 「乗る」的て形。
+
+- word: 今すぐ
+  reading: いますぐ
+  pos: 副词
+  meaning: 现在马上
+
+- word: キミ
+  reading: きみ
+  pos: 代词
+  meaning: 你
+  note: 片假名表记，语气更轻快。
+
+- word: 会いに行こう
+  reading: あいにいこう
+  pos: 惯用句
+  meaning: 去见你吧
+  note: 「会いに行く」的意志形。
+
+- word: 余計
+  reading: よけい
+  pos: 形容动词
+  meaning: 多余的、不必要的
+
+- word: 忘れた
+  reading: わすれた
+  pos: 动词
+  meaning: 忘记了
+  note: 「忘れる」的过去式。
+
+- word: 方
+  reading: ほう
+  pos: 名词
+  meaning: 方面；……比较好
+  note: 「忘れた方がマシ」意为「忘掉反而更好」。
+
+- word: マシ
+  reading: まし
+  pos: 形容动词
+  meaning: 还算好、相对强一点
+  note: 「まし」的片假名表记。
+
+- word: シャレてる
+  reading: しゃれてる
+  pos: 动词
+  meaning: 时髦、有品位
+  note: 「洒落る」的进行体。
+
+- word: 時間
+  reading: じかん
+  pos: 名词
+  meaning: 时间
+
+- word: 届く
+  reading: とどく
+  pos: 动词
+  meaning: 到达、传达到
+
+- word: 明日
+  reading: あした
+  pos: 名词
+  meaning: 明天
+
+- word: 予定
+  reading: よてい
+  pos: 名词
+  meaning: 预定、计划
+
+- word: 無限大
+  reading: むげんだい
+  pos: 名词
+  meaning: 无限大
+
+- word: 世の中
+  reading: よのなか
+  pos: 名词
+  meaning: 世间、社会
+
+- word: 愛しい
+  reading: いとしい
+  pos: 形容词
+  meaning: 可爱、令人怜爱
+
+- word: 想い
+  reading: おもい
+  pos: 名词
+  meaning: 思念、情感
+
+- word: 負けそう
+  reading: まけそう
+  pos: 动词
+  meaning: 快要输掉、快要被击败
+  note: 「負ける」的连用形＋そう。
+
+- word: 頼りない
+  reading: たよりない
+  pos: 形容词
+  meaning: 不可靠、靠不住
+
+- word: 翼
+  reading: つばさ
+  pos: 名词
+  meaning: 翅膀
+
+- word: 飛べる
+  reading: とべる
+  pos: 动词
+  meaning: 能飞
+  note: 「飛ぶ」的可能形。
+
+- word: ウカレタ
+  reading: うかれた
+  pos: 动词
+  meaning: 兴奋的、飘飘然的
+  note: 「浮かれる」的过去式，此处作定语。
+
+- word: 一途
+  reading: いちず
+  pos: 形容动词
+  meaning: 一心一意、专一
+
+- word: どこまでも
+  reading: どこまでも
+  pos: 副词
+  meaning: 无论到哪里
+
+- word: 曖昧
+  reading: あいまい
+  pos: 形容动词
+  meaning: 暧昧、含糊
+
+- word: 言葉
+  reading: ことば
+  pos: 名词
+  meaning: 话语、言语
+
+- word: 意外
+  reading: いがい
+  pos: 形容动词
+  meaning: 意外地、出乎意料
+
+- word: 便利
+  reading: べんり
+  pos: 形容动词
+  meaning: 方便、便利
+
+- word: 叫んでる
+  reading: さけんでる
+  pos: 动词
+  meaning: 喊叫着
+  note: 「叫ぶ」的进行体「叫んでいる」的口语缩略。
+
+- word: ヒットソング
+  reading: ひっとそんぐ
+  pos: 名词
+  meaning: 热门歌曲
+
+- word: 聴きながら
+  reading: ききながら
+  pos: 动词
+  meaning: 一边听
+  note: 「聴く」的连用形＋ながら。
+
+- word: 響く
+  reading: ひびく
+  pos: 动词
+  meaning: 回响、响彻
+
+- word: 期待してても
+  reading: きたいしてても
+  pos: 动词
+  meaning: 即使期待
+  note: 「期待する」的て形＋も。
+
+- word: 仕方ない
+  reading: しかたない
+  pos: 惯用句
+  meaning: 没办法
+
+- word: やるせない
+  reading: やるせない
+  pos: 形容词
+  meaning: 郁闷、无可奈何
+
+- word: 常識
+  reading: じょうしき
+  pos: 名词
+  meaning: 常识
+
+- word: はずれ
+  reading: はずれ
+  pos: 名词
+  meaning: 偏离、不合
+  note: 「常識はずれ」意为脱离常理。
+
+- word: 悪くはない
+  reading: わるくはない
+  pos: 形容词
+  meaning: 不算坏、还不错
+  note: 「悪い」的否定形。
+
+- word: 染めた
+  reading: そめた
+  pos: 动词
+  meaning: 染上了
+  note: 「染める」的过去式，这里指被某种印象浸染。
+
+- word: ぎこちない
+  reading: ぎこちない
+  pos: 形容词
+  meaning: 笨拙、生硬
+
+- word: 空
+  reading: そら
+  pos: 名词
+  meaning: 天空
